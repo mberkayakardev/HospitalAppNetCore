@@ -1,0 +1,160 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "AkarSoftware.HospitalApp.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/AkarSoftware.HospitalApp.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AkarSoftware.HospitalApp.Core.dll": {}
+        }
+      },
+      "AkarSoftware.HospitalApp.Dtos/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "AkarSoftware.HospitalApp.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/AkarSoftware.HospitalApp.Dtos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AkarSoftware.HospitalApp.Dtos.dll": {}
+        }
+      },
+      "AkarSoftware.HospitalApp.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "AkarSoftware.HospitalApp.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/AkarSoftware.HospitalApp.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AkarSoftware.HospitalApp.Entities.dll": {}
+        }
+      },
+      "AkarSoftware.HospitalApp.Repositories/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "AkarSoftware.HospitalApp.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/AkarSoftware.HospitalApp.Repositories.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AkarSoftware.HospitalApp.Repositories.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AkarSoftware.HospitalApp.Core/1.0.0": {
+      "type": "project",
+      "path": "../AkarSoftware.HospitalApp.Core/AkarSoftware.HospitalApp.Core.csproj",
+      "msbuildProject": "../AkarSoftware.HospitalApp.Core/AkarSoftware.HospitalApp.Core.csproj"
+    },
+    "AkarSoftware.HospitalApp.Dtos/1.0.0": {
+      "type": "project",
+      "path": "../AkarSoftware.HospitalApp.Dtos/AkarSoftware.HospitalApp.Dtos.csproj",
+      "msbuildProject": "../AkarSoftware.HospitalApp.Dtos/AkarSoftware.HospitalApp.Dtos.csproj"
+    },
+    "AkarSoftware.HospitalApp.Entities/1.0.0": {
+      "type": "project",
+      "path": "../AkarSoftware.HospitalApp.Entities/AkarSoftware.HospitalApp.Entities.csproj",
+      "msbuildProject": "../AkarSoftware.HospitalApp.Entities/AkarSoftware.HospitalApp.Entities.csproj"
+    },
+    "AkarSoftware.HospitalApp.Repositories/1.0.0": {
+      "type": "project",
+      "path": "../AkarSoftware.HospitalApp.Repositories/AkarSoftware.HospitalApp.Repositories.csproj",
+      "msbuildProject": "../AkarSoftware.HospitalApp.Repositories/AkarSoftware.HospitalApp.Repositories.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "AkarSoftware.HospitalApp.Dtos >= 1.0.0",
+      "AkarSoftware.HospitalApp.Repositories >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\mberk\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Managers\\AkarSoftware.HospitalApp.Managers.csproj",
+      "projectName": "AkarSoftware.HospitalApp.Managers",
+      "projectPath": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Managers\\AkarSoftware.HospitalApp.Managers.csproj",
+      "packagesPath": "C:\\Users\\mberk\\.nuget\\packages\\",
+      "outputPath": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Managers\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\mberk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Dtos\\AkarSoftware.HospitalApp.Dtos.csproj": {
+              "projectPath": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Dtos\\AkarSoftware.HospitalApp.Dtos.csproj"
+            },
+            "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Repositories\\AkarSoftware.HospitalApp.Repositories.csproj": {
+              "projectPath": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Repositories\\AkarSoftware.HospitalApp.Repositories.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
