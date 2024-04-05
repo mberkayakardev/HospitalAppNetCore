@@ -10,4 +10,8 @@
     <ProjectReference Include="..\AkarSoftware.HospitalApp.Core\AkarSoftware.HospitalApp.Core.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Identities\" />
+  </ItemGroup>
+
 </Project>

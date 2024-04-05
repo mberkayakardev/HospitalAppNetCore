@@ -1,0 +1,15 @@
+D:\Github\HastaneOtomasyonu\AkarSoftware.HospitalApp\AkarSoftware.HospitalApp.Core\bin\Debug\net8.0\AkarSoftware.HospitalApp.Core.deps.json
+D:\Github\HastaneOtomasyonu\AkarSoftware.HospitalApp\AkarSoftware.HospitalApp.Core\bin\Debug\net8.0\AkarSoftware.HospitalApp.Core.runtimeconfig.json
+D:\Github\HastaneOtomasyonu\AkarSoftware.HospitalApp\AkarSoftware.HospitalApp.Core\bin\Debug\net8.0\AkarSoftware.HospitalApp.Core.dll
+D:\Github\HastaneOtomasyonu\AkarSoftware.HospitalApp\AkarSoftware.HospitalApp.Core\bin\Debug\net8.0\AkarSoftware.HospitalApp.Core.pdb
+D:\Github\HastaneOtomasyonu\AkarSoftware.HospitalApp\AkarSoftware.HospitalApp.Core\obj\Debug\net8.0\AkarSoftware.HospitalApp.Core.csproj.AssemblyReference.cache
+D:\Github\HastaneOtomasyonu\AkarSoftware.HospitalApp\AkarSoftware.HospitalApp.Core\obj\Debug\net8.0\AkarSoftware.HospitalApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\HastaneOtomasyonu\AkarSoftware.HospitalApp\AkarSoftware.HospitalApp.Core\obj\Debug\net8.0\AkarSoftware.HospitalApp.Core.AssemblyInfoInputs.cache
+D:\Github\HastaneOtomasyonu\AkarSoftware.HospitalApp\AkarSoftware.HospitalApp.Core\obj\Debug\net8.0\AkarSoftware.HospitalApp.Core.AssemblyInfo.cs
+D:\Github\HastaneOtomasyonu\AkarSoftware.HospitalApp\AkarSoftware.HospitalApp.Core\obj\Debug\net8.0\AkarSoftware.HospitalApp.Core.csproj.CoreCompileInputs.cache
+D:\Github\HastaneOtomasyonu\AkarSoftware.HospitalApp\AkarSoftware.HospitalApp.Core\obj\Debug\net8.0\AkarSoftware.HospitalApp.Core.sourcelink.json
+D:\Github\HastaneOtomasyonu\AkarSoftware.HospitalApp\AkarSoftware.HospitalApp.Core\obj\Debug\net8.0\AkarSoftware.HospitalApp.Core.dll
+D:\Github\HastaneOtomasyonu\AkarSoftware.HospitalApp\AkarSoftware.HospitalApp.Core\obj\Debug\net8.0\refint\AkarSoftware.HospitalApp.Core.dll
+D:\Github\HastaneOtomasyonu\AkarSoftware.HospitalApp\AkarSoftware.HospitalApp.Core\obj\Debug\net8.0\AkarSoftware.HospitalApp.Core.pdb
+D:\Github\HastaneOtomasyonu\AkarSoftware.HospitalApp\AkarSoftware.HospitalApp.Core\obj\Debug\net8.0\AkarSoftware.HospitalApp.Core.genruntimeconfig.cache
+D:\Github\HastaneOtomasyonu\AkarSoftware.HospitalApp\AkarSoftware.HospitalApp.Core\obj\Debug\net8.0\ref\AkarSoftware.HospitalApp.Core.dll
