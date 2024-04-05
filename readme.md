@@ -39,10 +39,10 @@
 * İlgili Platform Asp.Net Core MVC kullanılarak geliştirilmiş olan bir hastane yönetim sistemini içermektedir. Doktorlar, Hastane Yönetimi, Hastalar ve Dinamik rollemeler, yetkilendirmeler ve ekranların bulunduğu bir projedir (ekranlar rollere aranır ve kullanıcı rollerindeki değişiklikler ile birlikte merkezi bir yönetim gerçekleşebilir. ) 
 
 <br>
+<hr>
+<br>
 
-
-* Ön yüz için MVC projesi seçilmiş olup istenildiği taktirde ilgili altyapı SPA yada mobile çevrilebilmektedir.  
-
+ 
 <p align="right">(<a href="#readme-top">başa dön</a>)</p>
 
 
