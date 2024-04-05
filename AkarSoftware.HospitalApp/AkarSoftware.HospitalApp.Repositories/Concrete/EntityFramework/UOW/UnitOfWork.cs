@@ -2,6 +2,7 @@
 using AkarSoftware.HospitalApp.Core.Repositories.EntityFramework.Abstract;
 using AkarSoftware.HospitalApp.Core.Repositories.EntityFramework.Concrete;
 using AkarSoftware.HospitalApp.Repositories.Abstract.EntityFramework;
+using AkarSoftware.HospitalApp.Repositories.Concrete.EntityFramework.Contexts;
 
 namespace AkarSoftware.HospitalApp.Repositories.Concrete.EntityFramework.UOW
 {

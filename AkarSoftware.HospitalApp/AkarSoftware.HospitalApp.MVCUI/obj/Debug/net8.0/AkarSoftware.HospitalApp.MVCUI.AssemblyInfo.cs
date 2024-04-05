@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AkarSoftware.HospitalApp.MVCUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+509726e3568a3efca7a25fa0282ae6806c3a1993")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b9c47d9d6870fdea89ae6140d0e0d1e45433951")]
 [assembly: System.Reflection.AssemblyProductAttribute("AkarSoftware.HospitalApp.MVCUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AkarSoftware.HospitalApp.MVCUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
