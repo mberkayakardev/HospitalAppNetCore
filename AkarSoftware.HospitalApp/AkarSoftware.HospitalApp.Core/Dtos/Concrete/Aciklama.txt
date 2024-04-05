@@ -1,0 +1,5 @@
+﻿İlgili klasör içerisinde tüm projelerde kullanılması muhtemel dtolar var ise burada belirtilebilir. 
+
+Ben böyle bir düzen şimdilik yapmadım. fakat ilgili klasör yapısını oluşturdum.
+
+Tüm projelerde kullanılabilecek dtolar var ise burada belirtilebilir. 

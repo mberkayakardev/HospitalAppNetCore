@@ -1,12 +1,479 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE79F0D-03FD-4892-96F6-825F2F16BF1B}|AkarSoftware.HospitalApp.Core\\AkarSoftware.HospitalApp.Core.csproj|d:\\github\\hastaneotomasyonu\\akarsoftware.hospitalapp\\akarsoftware.hospitalapp.core\\utilities\\security\\hashhelper\\hashhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE79F0D-03FD-4892-96F6-825F2F16BF1B}|AkarSoftware.HospitalApp.Core\\AkarSoftware.HospitalApp.Core.csproj|solutionrelative:akarsoftware.hospitalapp.core\\utilities\\security\\hashhelper\\hashhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE79F0D-03FD-4892-96F6-825F2F16BF1B}|AkarSoftware.HospitalApp.Core\\AkarSoftware.HospitalApp.Core.csproj|d:\\github\\hastaneotomasyonu\\akarsoftware.hospitalapp\\akarsoftware.hospitalapp.core\\utilities\\result\\complextypes\\resultstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE79F0D-03FD-4892-96F6-825F2F16BF1B}|AkarSoftware.HospitalApp.Core\\AkarSoftware.HospitalApp.Core.csproj|solutionrelative:akarsoftware.hospitalapp.core\\utilities\\result\\complextypes\\resultstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE79F0D-03FD-4892-96F6-825F2F16BF1B}|AkarSoftware.HospitalApp.Core\\AkarSoftware.HospitalApp.Core.csproj|d:\\github\\hastaneotomasyonu\\akarsoftware.hospitalapp\\akarsoftware.hospitalapp.core\\utilities\\result\\base\\dataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE79F0D-03FD-4892-96F6-825F2F16BF1B}|AkarSoftware.HospitalApp.Core\\AkarSoftware.HospitalApp.Core.csproj|solutionrelative:akarsoftware.hospitalapp.core\\utilities\\result\\base\\dataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE79F0D-03FD-4892-96F6-825F2F16BF1B}|AkarSoftware.HospitalApp.Core\\AkarSoftware.HospitalApp.Core.csproj|d:\\github\\hastaneotomasyonu\\akarsoftware.hospitalapp\\akarsoftware.hospitalapp.core\\utilities\\result\\base\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE79F0D-03FD-4892-96F6-825F2F16BF1B}|AkarSoftware.HospitalApp.Core\\AkarSoftware.HospitalApp.Core.csproj|solutionrelative:akarsoftware.hospitalapp.core\\utilities\\result\\base\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE79F0D-03FD-4892-96F6-825F2F16BF1B}|AkarSoftware.HospitalApp.Core\\AkarSoftware.HospitalApp.Core.csproj|d:\\github\\hastaneotomasyonu\\akarsoftware.hospitalapp\\akarsoftware.hospitalapp.core\\utilities\\result\\base\\iresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE79F0D-03FD-4892-96F6-825F2F16BF1B}|AkarSoftware.HospitalApp.Core\\AkarSoftware.HospitalApp.Core.csproj|solutionrelative:akarsoftware.hospitalapp.core\\utilities\\result\\base\\iresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE79F0D-03FD-4892-96F6-825F2F16BF1B}|AkarSoftware.HospitalApp.Core\\AkarSoftware.HospitalApp.Core.csproj|d:\\github\\hastaneotomasyonu\\akarsoftware.hospitalapp\\akarsoftware.hospitalapp.core\\repositories\\entityframework\\concrete\\efgenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE79F0D-03FD-4892-96F6-825F2F16BF1B}|AkarSoftware.HospitalApp.Core\\AkarSoftware.HospitalApp.Core.csproj|solutionrelative:akarsoftware.hospitalapp.core\\repositories\\entityframework\\concrete\\efgenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE79F0D-03FD-4892-96F6-825F2F16BF1B}|AkarSoftware.HospitalApp.Core\\AkarSoftware.HospitalApp.Core.csproj|d:\\github\\hastaneotomasyonu\\akarsoftware.hospitalapp\\akarsoftware.hospitalapp.core\\repositories\\entityframework\\abstract\\iefgenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE79F0D-03FD-4892-96F6-825F2F16BF1B}|AkarSoftware.HospitalApp.Core\\AkarSoftware.HospitalApp.Core.csproj|solutionrelative:akarsoftware.hospitalapp.core\\repositories\\entityframework\\abstract\\iefgenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE79F0D-03FD-4892-96F6-825F2F16BF1B}|AkarSoftware.HospitalApp.Core\\AkarSoftware.HospitalApp.Core.csproj|d:\\github\\hastaneotomasyonu\\akarsoftware.hospitalapp\\akarsoftware.hospitalapp.core\\utilities\\result\\base\\idataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE79F0D-03FD-4892-96F6-825F2F16BF1B}|AkarSoftware.HospitalApp.Core\\AkarSoftware.HospitalApp.Core.csproj|solutionrelative:akarsoftware.hospitalapp.core\\utilities\\result\\base\\idataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE79F0D-03FD-4892-96F6-825F2F16BF1B}|AkarSoftware.HospitalApp.Core\\AkarSoftware.HospitalApp.Core.csproj|d:\\github\\hastaneotomasyonu\\akarsoftware.hospitalapp\\akarsoftware.hospitalapp.core\\utilities\\pagination\\complextypes\\requestparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE79F0D-03FD-4892-96F6-825F2F16BF1B}|AkarSoftware.HospitalApp.Core\\AkarSoftware.HospitalApp.Core.csproj|solutionrelative:akarsoftware.hospitalapp.core\\utilities\\pagination\\complextypes\\requestparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE79F0D-03FD-4892-96F6-825F2F16BF1B}|AkarSoftware.HospitalApp.Core\\AkarSoftware.HospitalApp.Core.csproj|d:\\github\\hastaneotomasyonu\\akarsoftware.hospitalapp\\akarsoftware.hospitalapp.core\\utilities\\pagination\\complextypes\\pagerresultviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE79F0D-03FD-4892-96F6-825F2F16BF1B}|AkarSoftware.HospitalApp.Core\\AkarSoftware.HospitalApp.Core.csproj|solutionrelative:akarsoftware.hospitalapp.core\\utilities\\pagination\\complextypes\\pagerresultviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE79F0D-03FD-4892-96F6-825F2F16BF1B}|AkarSoftware.HospitalApp.Core\\AkarSoftware.HospitalApp.Core.csproj|d:\\github\\hastaneotomasyonu\\akarsoftware.hospitalapp\\akarsoftware.hospitalapp.core\\utilities\\pagination\\complextypes\\pagedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE79F0D-03FD-4892-96F6-825F2F16BF1B}|AkarSoftware.HospitalApp.Core\\AkarSoftware.HospitalApp.Core.csproj|solutionrelative:akarsoftware.hospitalapp.core\\utilities\\pagination\\complextypes\\pagedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE79F0D-03FD-4892-96F6-825F2F16BF1B}|AkarSoftware.HospitalApp.Core\\AkarSoftware.HospitalApp.Core.csproj|d:\\github\\hastaneotomasyonu\\akarsoftware.hospitalapp\\akarsoftware.hospitalapp.core\\utilities\\pagination\\complextypes\\metadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE79F0D-03FD-4892-96F6-825F2F16BF1B}|AkarSoftware.HospitalApp.Core\\AkarSoftware.HospitalApp.Core.csproj|solutionrelative:akarsoftware.hospitalapp.core\\utilities\\pagination\\complextypes\\metadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE79F0D-03FD-4892-96F6-825F2F16BF1B}|AkarSoftware.HospitalApp.Core\\AkarSoftware.HospitalApp.Core.csproj|d:\\github\\hastaneotomasyonu\\akarsoftware.hospitalapp\\akarsoftware.hospitalapp.core\\extentions\\httpcontext\\httpcontextextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE79F0D-03FD-4892-96F6-825F2F16BF1B}|AkarSoftware.HospitalApp.Core\\AkarSoftware.HospitalApp.Core.csproj|solutionrelative:akarsoftware.hospitalapp.core\\extentions\\httpcontext\\httpcontextextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE79F0D-03FD-4892-96F6-825F2F16BF1B}|AkarSoftware.HospitalApp.Core\\AkarSoftware.HospitalApp.Core.csproj|d:\\github\\hastaneotomasyonu\\akarsoftware.hospitalapp\\akarsoftware.hospitalapp.core\\extentions\\identity\\identityextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE79F0D-03FD-4892-96F6-825F2F16BF1B}|AkarSoftware.HospitalApp.Core\\AkarSoftware.HospitalApp.Core.csproj|solutionrelative:akarsoftware.hospitalapp.core\\extentions\\identity\\identityextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE79F0D-03FD-4892-96F6-825F2F16BF1B}|AkarSoftware.HospitalApp.Core\\AkarSoftware.HospitalApp.Core.csproj|d:\\github\\hastaneotomasyonu\\akarsoftware.hospitalapp\\akarsoftware.hospitalapp.core\\extentions\\fluentvalidation\\fluentapiextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE79F0D-03FD-4892-96F6-825F2F16BF1B}|AkarSoftware.HospitalApp.Core\\AkarSoftware.HospitalApp.Core.csproj|solutionrelative:akarsoftware.hospitalapp.core\\extentions\\fluentvalidation\\fluentapiextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE79F0D-03FD-4892-96F6-825F2F16BF1B}|AkarSoftware.HospitalApp.Core\\AkarSoftware.HospitalApp.Core.csproj|d:\\github\\hastaneotomasyonu\\akarsoftware.hospitalapp\\akarsoftware.hospitalapp.core\\extentions\\fluentvalidation\\complextypes\\errormodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE79F0D-03FD-4892-96F6-825F2F16BF1B}|AkarSoftware.HospitalApp.Core\\AkarSoftware.HospitalApp.Core.csproj|solutionrelative:akarsoftware.hospitalapp.core\\extentions\\fluentvalidation\\complextypes\\errormodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE79F0D-03FD-4892-96F6-825F2F16BF1B}|AkarSoftware.HospitalApp.Core\\AkarSoftware.HospitalApp.Core.csproj|d:\\github\\hastaneotomasyonu\\akarsoftware.hospitalapp\\akarsoftware.hospitalapp.core\\extentions\\controller\\mvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE79F0D-03FD-4892-96F6-825F2F16BF1B}|AkarSoftware.HospitalApp.Core\\AkarSoftware.HospitalApp.Core.csproj|solutionrelative:akarsoftware.hospitalapp.core\\extentions\\controller\\mvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE79F0D-03FD-4892-96F6-825F2F16BF1B}|AkarSoftware.HospitalApp.Core\\AkarSoftware.HospitalApp.Core.csproj|d:\\github\\hastaneotomasyonu\\akarsoftware.hospitalapp\\akarsoftware.hospitalapp.core\\extentions\\controller\\api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE79F0D-03FD-4892-96F6-825F2F16BF1B}|AkarSoftware.HospitalApp.Core\\AkarSoftware.HospitalApp.Core.csproj|solutionrelative:akarsoftware.hospitalapp.core\\extentions\\controller\\api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE79F0D-03FD-4892-96F6-825F2F16BF1B}|AkarSoftware.HospitalApp.Core\\AkarSoftware.HospitalApp.Core.csproj|d:\\github\\hastaneotomasyonu\\akarsoftware.hospitalapp\\akarsoftware.hospitalapp.core\\entities\\abstract\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE79F0D-03FD-4892-96F6-825F2F16BF1B}|AkarSoftware.HospitalApp.Core\\AkarSoftware.HospitalApp.Core.csproj|solutionrelative:akarsoftware.hospitalapp.core\\entities\\abstract\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE79F0D-03FD-4892-96F6-825F2F16BF1B}|AkarSoftware.HospitalApp.Core\\AkarSoftware.HospitalApp.Core.csproj|d:\\github\\hastaneotomasyonu\\akarsoftware.hospitalapp\\akarsoftware.hospitalapp.core\\repositories\\dapper\\abstract\\idpgenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE79F0D-03FD-4892-96F6-825F2F16BF1B}|AkarSoftware.HospitalApp.Core\\AkarSoftware.HospitalApp.Core.csproj|solutionrelative:akarsoftware.hospitalapp.core\\repositories\\dapper\\abstract\\idpgenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE79F0D-03FD-4892-96F6-825F2F16BF1B}|AkarSoftware.HospitalApp.Core\\AkarSoftware.HospitalApp.Core.csproj|d:\\github\\hastaneotomasyonu\\akarsoftware.hospitalapp\\akarsoftware.hospitalapp.core\\repositories\\dapper\\concrete\\dpgenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE79F0D-03FD-4892-96F6-825F2F16BF1B}|AkarSoftware.HospitalApp.Core\\AkarSoftware.HospitalApp.Core.csproj|solutionrelative:akarsoftware.hospitalapp.core\\repositories\\dapper\\concrete\\dpgenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE79F0D-03FD-4892-96F6-825F2F16BF1B}|AkarSoftware.HospitalApp.Core\\AkarSoftware.HospitalApp.Core.csproj|d:\\github\\hastaneotomasyonu\\akarsoftware.hospitalapp\\akarsoftware.hospitalapp.core\\entities\\concrete\\aciklama.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CAE79F0D-03FD-4892-96F6-825F2F16BF1B}|AkarSoftware.HospitalApp.Core\\AkarSoftware.HospitalApp.Core.csproj|solutionrelative:akarsoftware.hospitalapp.core\\entities\\concrete\\aciklama.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE79F0D-03FD-4892-96F6-825F2F16BF1B}|AkarSoftware.HospitalApp.Core\\AkarSoftware.HospitalApp.Core.csproj|d:\\github\\hastaneotomasyonu\\akarsoftware.hospitalapp\\akarsoftware.hospitalapp.core\\entities\\abstract\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE79F0D-03FD-4892-96F6-825F2F16BF1B}|AkarSoftware.HospitalApp.Core\\AkarSoftware.HospitalApp.Core.csproj|solutionrelative:akarsoftware.hospitalapp.core\\entities\\abstract\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE79F0D-03FD-4892-96F6-825F2F16BF1B}|AkarSoftware.HospitalApp.Core\\AkarSoftware.HospitalApp.Core.csproj|d:\\github\\hastaneotomasyonu\\akarsoftware.hospitalapp\\akarsoftware.hospitalapp.core\\dtos\\abstract\\baseupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE79F0D-03FD-4892-96F6-825F2F16BF1B}|AkarSoftware.HospitalApp.Core\\AkarSoftware.HospitalApp.Core.csproj|solutionrelative:akarsoftware.hospitalapp.core\\dtos\\abstract\\baseupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE79F0D-03FD-4892-96F6-825F2F16BF1B}|AkarSoftware.HospitalApp.Core\\AkarSoftware.HospitalApp.Core.csproj|d:\\github\\hastaneotomasyonu\\akarsoftware.hospitalapp\\akarsoftware.hospitalapp.core\\dtos\\abstract\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE79F0D-03FD-4892-96F6-825F2F16BF1B}|AkarSoftware.HospitalApp.Core\\AkarSoftware.HospitalApp.Core.csproj|solutionrelative:akarsoftware.hospitalapp.core\\dtos\\abstract\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE79F0D-03FD-4892-96F6-825F2F16BF1B}|AkarSoftware.HospitalApp.Core\\AkarSoftware.HospitalApp.Core.csproj|d:\\github\\hastaneotomasyonu\\akarsoftware.hospitalapp\\akarsoftware.hospitalapp.core\\dtos\\abstract\\iupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE79F0D-03FD-4892-96F6-825F2F16BF1B}|AkarSoftware.HospitalApp.Core\\AkarSoftware.HospitalApp.Core.csproj|solutionrelative:akarsoftware.hospitalapp.core\\dtos\\abstract\\iupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE79F0D-03FD-4892-96F6-825F2F16BF1B}|AkarSoftware.HospitalApp.Core\\AkarSoftware.HospitalApp.Core.csproj|d:\\github\\hastaneotomasyonu\\akarsoftware.hospitalapp\\akarsoftware.hospitalapp.core\\dtos\\abstract\\idto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE79F0D-03FD-4892-96F6-825F2F16BF1B}|AkarSoftware.HospitalApp.Core\\AkarSoftware.HospitalApp.Core.csproj|solutionrelative:akarsoftware.hospitalapp.core\\dtos\\abstract\\idto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HashHelpers.cs",
+              "DocumentMoniker": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Core\\Utilities\\Security\\HashHelper\\HashHelpers.cs",
+              "RelativeDocumentMoniker": "AkarSoftware.HospitalApp.Core\\Utilities\\Security\\HashHelper\\HashHelpers.cs",
+              "ToolTip": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Core\\Utilities\\Security\\HashHelper\\HashHelpers.cs",
+              "RelativeToolTip": "AkarSoftware.HospitalApp.Core\\Utilities\\Security\\HashHelper\\HashHelpers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T21:40:09.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResultStatus.cs",
+              "DocumentMoniker": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Core\\Utilities\\Result\\ComplexTypes\\ResultStatus.cs",
+              "RelativeDocumentMoniker": "AkarSoftware.HospitalApp.Core\\Utilities\\Result\\ComplexTypes\\ResultStatus.cs",
+              "ToolTip": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Core\\Utilities\\Result\\ComplexTypes\\ResultStatus.cs",
+              "RelativeToolTip": "AkarSoftware.HospitalApp.Core\\Utilities\\Result\\ComplexTypes\\ResultStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T21:39:52.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Result.cs",
+              "DocumentMoniker": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Core\\Utilities\\Result\\Base\\Result.cs",
+              "RelativeDocumentMoniker": "AkarSoftware.HospitalApp.Core\\Utilities\\Result\\Base\\Result.cs",
+              "ToolTip": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Core\\Utilities\\Result\\Base\\Result.cs",
+              "RelativeToolTip": "AkarSoftware.HospitalApp.Core\\Utilities\\Result\\Base\\Result.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAcwAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T21:39:40.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IResult.cs",
+              "DocumentMoniker": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Core\\Utilities\\Result\\Base\\IResult.cs",
+              "RelativeDocumentMoniker": "AkarSoftware.HospitalApp.Core\\Utilities\\Result\\Base\\IResult.cs",
+              "ToolTip": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Core\\Utilities\\Result\\Base\\IResult.cs",
+              "RelativeToolTip": "AkarSoftware.HospitalApp.Core\\Utilities\\Result\\Base\\IResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T21:39:32.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDataResult.cs",
+              "DocumentMoniker": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Core\\Utilities\\Result\\Base\\IDataResult.cs",
+              "RelativeDocumentMoniker": "AkarSoftware.HospitalApp.Core\\Utilities\\Result\\Base\\IDataResult.cs",
+              "ToolTip": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Core\\Utilities\\Result\\Base\\IDataResult.cs",
+              "RelativeToolTip": "AkarSoftware.HospitalApp.Core\\Utilities\\Result\\Base\\IDataResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T21:39:18.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataResult.cs",
+              "DocumentMoniker": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Core\\Utilities\\Result\\Base\\DataResult.cs",
+              "RelativeDocumentMoniker": "AkarSoftware.HospitalApp.Core\\Utilities\\Result\\Base\\DataResult.cs",
+              "ToolTip": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Core\\Utilities\\Result\\Base\\DataResult.cs",
+              "RelativeToolTip": "AkarSoftware.HospitalApp.Core\\Utilities\\Result\\Base\\DataResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T21:38:37.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RequestParameters.cs",
+              "DocumentMoniker": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Core\\Utilities\\Pagination\\ComplexTypes\\RequestParameters.cs",
+              "RelativeDocumentMoniker": "AkarSoftware.HospitalApp.Core\\Utilities\\Pagination\\ComplexTypes\\RequestParameters.cs",
+              "ToolTip": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Core\\Utilities\\Pagination\\ComplexTypes\\RequestParameters.cs",
+              "RelativeToolTip": "AkarSoftware.HospitalApp.Core\\Utilities\\Pagination\\ComplexTypes\\RequestParameters.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T21:38:30.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PagerResultViewModel.cs",
+              "DocumentMoniker": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Core\\Utilities\\Pagination\\ComplexTypes\\PagerResultViewModel.cs",
+              "RelativeDocumentMoniker": "AkarSoftware.HospitalApp.Core\\Utilities\\Pagination\\ComplexTypes\\PagerResultViewModel.cs",
+              "ToolTip": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Core\\Utilities\\Pagination\\ComplexTypes\\PagerResultViewModel.cs",
+              "RelativeToolTip": "AkarSoftware.HospitalApp.Core\\Utilities\\Pagination\\ComplexTypes\\PagerResultViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T21:38:27.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEfGenericRepository.cs",
+              "DocumentMoniker": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Core\\Repositories\\EntityFramework\\Abstract\\IEfGenericRepository.cs",
+              "RelativeDocumentMoniker": "AkarSoftware.HospitalApp.Core\\Repositories\\EntityFramework\\Abstract\\IEfGenericRepository.cs",
+              "ToolTip": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Core\\Repositories\\EntityFramework\\Abstract\\IEfGenericRepository.cs",
+              "RelativeToolTip": "AkarSoftware.HospitalApp.Core\\Repositories\\EntityFramework\\Abstract\\IEfGenericRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAIwA4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T21:15:14.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EfGenericRepository.cs",
+              "DocumentMoniker": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Core\\Repositories\\EntityFramework\\Concrete\\EfGenericRepository.cs",
+              "RelativeDocumentMoniker": "AkarSoftware.HospitalApp.Core\\Repositories\\EntityFramework\\Concrete\\EfGenericRepository.cs",
+              "ToolTip": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Core\\Repositories\\EntityFramework\\Concrete\\EfGenericRepository.cs",
+              "RelativeToolTip": "AkarSoftware.HospitalApp.Core\\Repositories\\EntityFramework\\Concrete\\EfGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T21:20:50.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PagedList.cs",
+              "DocumentMoniker": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Core\\Utilities\\Pagination\\ComplexTypes\\PagedList.cs",
+              "RelativeDocumentMoniker": "AkarSoftware.HospitalApp.Core\\Utilities\\Pagination\\ComplexTypes\\PagedList.cs",
+              "ToolTip": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Core\\Utilities\\Pagination\\ComplexTypes\\PagedList.cs",
+              "RelativeToolTip": "AkarSoftware.HospitalApp.Core\\Utilities\\Pagination\\ComplexTypes\\PagedList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T21:38:24.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MetaData.cs",
+              "DocumentMoniker": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Core\\Utilities\\Pagination\\ComplexTypes\\MetaData.cs",
+              "RelativeDocumentMoniker": "AkarSoftware.HospitalApp.Core\\Utilities\\Pagination\\ComplexTypes\\MetaData.cs",
+              "ToolTip": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Core\\Utilities\\Pagination\\ComplexTypes\\MetaData.cs",
+              "RelativeToolTip": "AkarSoftware.HospitalApp.Core\\Utilities\\Pagination\\ComplexTypes\\MetaData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T21:38:11.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IdentityExtentions.cs",
+              "DocumentMoniker": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Core\\Extentions\\Identity\\IdentityExtentions.cs",
+              "RelativeDocumentMoniker": "AkarSoftware.HospitalApp.Core\\Extentions\\Identity\\IdentityExtentions.cs",
+              "ToolTip": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Core\\Extentions\\Identity\\IdentityExtentions.cs",
+              "RelativeToolTip": "AkarSoftware.HospitalApp.Core\\Extentions\\Identity\\IdentityExtentions.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowAIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T21:37:00.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HttpContextExtentions.cs",
+              "DocumentMoniker": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Core\\Extentions\\HttpContext\\HttpContextExtentions.cs",
+              "RelativeDocumentMoniker": "AkarSoftware.HospitalApp.Core\\Extentions\\HttpContext\\HttpContextExtentions.cs",
+              "ToolTip": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Core\\Extentions\\HttpContext\\HttpContextExtentions.cs",
+              "RelativeToolTip": "AkarSoftware.HospitalApp.Core\\Extentions\\HttpContext\\HttpContextExtentions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T21:36:54.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FluentApiExtentions.cs",
+              "DocumentMoniker": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Core\\Extentions\\FluentValidation\\FluentApiExtentions.cs",
+              "RelativeDocumentMoniker": "AkarSoftware.HospitalApp.Core\\Extentions\\FluentValidation\\FluentApiExtentions.cs",
+              "ToolTip": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Core\\Extentions\\FluentValidation\\FluentApiExtentions.cs",
+              "RelativeToolTip": "AkarSoftware.HospitalApp.Core\\Extentions\\FluentValidation\\FluentApiExtentions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T21:35:37.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ErrorModels.cs",
+              "DocumentMoniker": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Core\\Extentions\\FluentValidation\\ComplexTypes\\ErrorModels.cs",
+              "RelativeDocumentMoniker": "AkarSoftware.HospitalApp.Core\\Extentions\\FluentValidation\\ComplexTypes\\ErrorModels.cs",
+              "ToolTip": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Core\\Extentions\\FluentValidation\\ComplexTypes\\ErrorModels.cs",
+              "RelativeToolTip": "AkarSoftware.HospitalApp.Core\\Extentions\\FluentValidation\\ComplexTypes\\ErrorModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T21:34:37.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MVC.cs",
+              "DocumentMoniker": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Core\\Extentions\\Controller\\MVC.cs",
+              "RelativeDocumentMoniker": "AkarSoftware.HospitalApp.Core\\Extentions\\Controller\\MVC.cs",
+              "ToolTip": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Core\\Extentions\\Controller\\MVC.cs",
+              "RelativeToolTip": "AkarSoftware.HospitalApp.Core\\Extentions\\Controller\\MVC.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T21:34:34.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Api.cs",
+              "DocumentMoniker": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Core\\Extentions\\Controller\\Api.cs",
+              "RelativeDocumentMoniker": "AkarSoftware.HospitalApp.Core\\Extentions\\Controller\\Api.cs",
+              "ToolTip": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Core\\Extentions\\Controller\\Api.cs",
+              "RelativeToolTip": "AkarSoftware.HospitalApp.Core\\Extentions\\Controller\\Api.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T21:34:30.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Aciklama.txt",
+              "DocumentMoniker": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Core\\Entities\\Concrete\\Aciklama.txt",
+              "RelativeDocumentMoniker": "AkarSoftware.HospitalApp.Core\\Entities\\Concrete\\Aciklama.txt",
+              "ToolTip": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Core\\Entities\\Concrete\\Aciklama.txt",
+              "RelativeToolTip": "AkarSoftware.HospitalApp.Core\\Entities\\Concrete\\Aciklama.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-05T21:14:29.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DpGenericRepository.cs",
+              "DocumentMoniker": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Core\\Repositories\\Dapper\\Concrete\\DpGenericRepository.cs",
+              "RelativeDocumentMoniker": "AkarSoftware.HospitalApp.Core\\Repositories\\Dapper\\Concrete\\DpGenericRepository.cs",
+              "ToolTip": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Core\\Repositories\\Dapper\\Concrete\\DpGenericRepository.cs",
+              "RelativeToolTip": "AkarSoftware.HospitalApp.Core\\Repositories\\Dapper\\Concrete\\DpGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T21:08:59.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Core\\Entities\\Abstract\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "AkarSoftware.HospitalApp.Core\\Entities\\Abstract\\BaseEntity.cs",
+              "ToolTip": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Core\\Entities\\Abstract\\BaseEntity.cs",
+              "RelativeToolTip": "AkarSoftware.HospitalApp.Core\\Entities\\Abstract\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T21:03:01.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Core\\Entities\\Abstract\\IEntity.cs",
+              "RelativeDocumentMoniker": "AkarSoftware.HospitalApp.Core\\Entities\\Abstract\\IEntity.cs",
+              "ToolTip": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Core\\Entities\\Abstract\\IEntity.cs",
+              "RelativeToolTip": "AkarSoftware.HospitalApp.Core\\Entities\\Abstract\\IEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T21:02:50.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IDpGenericRepository.cs",
+              "DocumentMoniker": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Core\\Repositories\\Dapper\\Abstract\\IDpGenericRepository.cs",
+              "RelativeDocumentMoniker": "AkarSoftware.HospitalApp.Core\\Repositories\\Dapper\\Abstract\\IDpGenericRepository.cs",
+              "ToolTip": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Core\\Repositories\\Dapper\\Abstract\\IDpGenericRepository.cs",
+              "RelativeToolTip": "AkarSoftware.HospitalApp.Core\\Repositories\\Dapper\\Abstract\\IDpGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T21:02:22.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BaseDto.cs",
+              "DocumentMoniker": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Core\\Dtos\\Abstract\\BaseDto.cs",
+              "RelativeDocumentMoniker": "AkarSoftware.HospitalApp.Core\\Dtos\\Abstract\\BaseDto.cs",
+              "ToolTip": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Core\\Dtos\\Abstract\\BaseDto.cs",
+              "RelativeToolTip": "AkarSoftware.HospitalApp.Core\\Dtos\\Abstract\\BaseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T21:00:54.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BaseUpdateDto.cs",
+              "DocumentMoniker": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Core\\Dtos\\Abstract\\BaseUpdateDto.cs",
+              "RelativeDocumentMoniker": "AkarSoftware.HospitalApp.Core\\Dtos\\Abstract\\BaseUpdateDto.cs",
+              "ToolTip": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Core\\Dtos\\Abstract\\BaseUpdateDto.cs",
+              "RelativeToolTip": "AkarSoftware.HospitalApp.Core\\Dtos\\Abstract\\BaseUpdateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T21:00:53.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IDto.cs",
+              "DocumentMoniker": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Core\\Dtos\\Abstract\\IDto.cs",
+              "RelativeDocumentMoniker": "AkarSoftware.HospitalApp.Core\\Dtos\\Abstract\\IDto.cs",
+              "ToolTip": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Core\\Dtos\\Abstract\\IDto.cs",
+              "RelativeToolTip": "AkarSoftware.HospitalApp.Core\\Dtos\\Abstract\\IDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T21:00:52.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IUpdateDto.cs",
+              "DocumentMoniker": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Core\\Dtos\\Abstract\\IUpdateDto.cs",
+              "RelativeDocumentMoniker": "AkarSoftware.HospitalApp.Core\\Dtos\\Abstract\\IUpdateDto.cs",
+              "ToolTip": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Core\\Dtos\\Abstract\\IUpdateDto.cs",
+              "RelativeToolTip": "AkarSoftware.HospitalApp.Core\\Dtos\\Abstract\\IUpdateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T21:00:50.134Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
