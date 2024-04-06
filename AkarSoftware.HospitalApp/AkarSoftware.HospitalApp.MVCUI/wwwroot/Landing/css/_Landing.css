@@ -10,6 +10,14 @@ body {
     font-style: normal;
 }
 
+
+.navbar-master {
+    display: flex;
+    align-items: center; /* y ekseninde */
+    justify-content: space-between; /* ortaladı x ekseninde  */
+    padding: 10px;
+}
+
 nav {
     position: sticky;
     top: 0;
@@ -17,12 +25,6 @@ nav {
 
 
 
-.navbar-master {
-    display: flex;
-    justify-content: space-between; /* ortaladı x ekseninde  */
-    align-items: center; /* y ekseninde */
-    padding: 10px;
-}
 
 .navbar-items ul li {
     display: inline;

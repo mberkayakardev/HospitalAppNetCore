@@ -224,8 +224,8 @@ namespace AkarSoftware.HospitalApp.Repositories.Migrations
                 columns: new[] { "Id", "CreatedDate", "CreatedUser", "CreatedUserId", "Description", "IsActive", "ModifiedDate", "ModifiedUserId", "ModifiedUserName", "Name" },
                 values: new object[,]
                 {
-                    { 1, new DateTime(2024, 4, 6, 3, 48, 37, 651, DateTimeKind.Local).AddTicks(3535), "APP", 0, "Herkesin Gördüğü Tanıtım Sayfası İçeriklerini içermektedir ", true, new DateTime(2024, 4, 6, 3, 48, 37, 651, DateTimeKind.Local).AddTicks(3536), 0, "APP", "Landing" },
-                    { 2, new DateTime(2024, 4, 6, 3, 48, 37, 651, DateTimeKind.Local).AddTicks(3538), "APP", 0, "Bilgi İşlem Direktörlüğü ve Şirket sahiplerinin erişebildiği bir Modül ", true, new DateTime(2024, 4, 6, 3, 48, 37, 651, DateTimeKind.Local).AddTicks(3538), 0, "APP", "Admin" }
+                    { 1, new DateTime(2024, 4, 6, 23, 33, 24, 916, DateTimeKind.Local).AddTicks(8381), "APP", 0, "Herkesin Gördüğü Tanıtım Sayfası İçeriklerini içermektedir ", true, new DateTime(2024, 4, 6, 23, 33, 24, 916, DateTimeKind.Local).AddTicks(8382), 0, "APP", "Landing" },
+                    { 2, new DateTime(2024, 4, 6, 23, 33, 24, 916, DateTimeKind.Local).AddTicks(8384), "APP", 0, "Bilgi İşlem Direktörlüğü ve Şirket sahiplerinin erişebildiği bir Modül ", true, new DateTime(2024, 4, 6, 23, 33, 24, 916, DateTimeKind.Local).AddTicks(8384), 0, "APP", "Admin" }
                 });
 
             migrationBuilder.InsertData(
@@ -233,9 +233,9 @@ namespace AkarSoftware.HospitalApp.Repositories.Migrations
                 columns: new[] { "Id", "CreatedDate", "CreatedUser", "CreatedUserId", "IsActive", "ModifiedDate", "ModifiedUserId", "ModifiedUserName", "Name" },
                 values: new object[,]
                 {
-                    { 1, new DateTime(2024, 4, 6, 3, 48, 37, 651, DateTimeKind.Local).AddTicks(3630), "APP", 0, true, new DateTime(2024, 4, 6, 3, 48, 37, 651, DateTimeKind.Local).AddTicks(3631), 0, "APP", "Erkek" },
-                    { 2, new DateTime(2024, 4, 6, 3, 48, 37, 651, DateTimeKind.Local).AddTicks(3632), "APP", 0, true, new DateTime(2024, 4, 6, 3, 48, 37, 651, DateTimeKind.Local).AddTicks(3633), 0, "APP", "Kadın" },
-                    { 3, new DateTime(2024, 4, 6, 3, 48, 37, 651, DateTimeKind.Local).AddTicks(3634), "APP", 0, true, new DateTime(2024, 4, 6, 3, 48, 37, 651, DateTimeKind.Local).AddTicks(3635), 0, "APP", "Belirtmek İstemiyor" }
+                    { 1, new DateTime(2024, 4, 6, 23, 33, 24, 916, DateTimeKind.Local).AddTicks(8483), "APP", 0, true, new DateTime(2024, 4, 6, 23, 33, 24, 916, DateTimeKind.Local).AddTicks(8484), 0, "APP", "Erkek" },
+                    { 2, new DateTime(2024, 4, 6, 23, 33, 24, 916, DateTimeKind.Local).AddTicks(8486), "APP", 0, true, new DateTime(2024, 4, 6, 23, 33, 24, 916, DateTimeKind.Local).AddTicks(8487), 0, "APP", "Kadın" },
+                    { 3, new DateTime(2024, 4, 6, 23, 33, 24, 916, DateTimeKind.Local).AddTicks(8488), "APP", 0, true, new DateTime(2024, 4, 6, 23, 33, 24, 916, DateTimeKind.Local).AddTicks(8489), 0, "APP", "Belirtmek İstemiyor" }
                 });
 
             migrationBuilder.InsertData(
@@ -243,10 +243,16 @@ namespace AkarSoftware.HospitalApp.Repositories.Migrations
                 columns: new[] { "Id", "ActionName", "ActionParameters", "AppModulesId", "AreaName", "ControllerName", "CreatedDate", "CreatedUser", "CreatedUserId", "IconName", "IsActive", "MenuDesctiption", "MenuName", "ModifiedDate", "ModifiedUserId", "ModifiedUserName", "RootMenusId" },
                 values: new object[,]
                 {
-                    { 1, "RandevuAl", "", 1, "Landing", "Randevu", new DateTime(2024, 4, 6, 3, 48, 37, 651, DateTimeKind.Local).AddTicks(3316), "APP", 0, "randevu", true, "Randevu Al Linki için kullanılır ", "Randevu Al", new DateTime(2024, 4, 6, 3, 48, 37, 651, DateTimeKind.Local).AddTicks(3331), 0, "APP", null },
-                    { 2, "Index", "", 1, "Landing", "Kurumsal", new DateTime(2024, 4, 6, 3, 48, 37, 651, DateTimeKind.Local).AddTicks(3333), "APP", 0, "Kurumsal", true, "", "Kurumsal", new DateTime(2024, 4, 6, 3, 48, 37, 651, DateTimeKind.Local).AddTicks(3334), 0, "APP", null },
-                    { 3, "Index", "", 1, "Hakkımızda", "Kurumsal", new DateTime(2024, 4, 6, 3, 48, 37, 651, DateTimeKind.Local).AddTicks(3336), "APP", 0, "Kurumsal", true, "", "Hakkımızda", new DateTime(2024, 4, 6, 3, 48, 37, 651, DateTimeKind.Local).AddTicks(3337), 0, "APP", 2 },
-                    { 4, "Index", "", 1, "Misyon", "Kurumsal", new DateTime(2024, 4, 6, 3, 48, 37, 651, DateTimeKind.Local).AddTicks(3367), "APP", 0, "Kurumsal", true, "", "Misyon", new DateTime(2024, 4, 6, 3, 48, 37, 651, DateTimeKind.Local).AddTicks(3368), 0, "APP", 3 }
+                    { 1, "Randevu Al", "", 1, "Randevu Al", "Randevu Al", new DateTime(2024, 4, 6, 23, 33, 24, 916, DateTimeKind.Local).AddTicks(8172), "APP", 0, "Randevu Al", true, "Randevu Al", "Randevu Al", new DateTime(2024, 4, 6, 23, 33, 24, 916, DateTimeKind.Local).AddTicks(8186), 0, "APP", null },
+                    { 2, "Kurumsal", "", 1, "Kurumsal", "Kurumsal", new DateTime(2024, 4, 6, 23, 33, 24, 916, DateTimeKind.Local).AddTicks(8189), "APP", 0, "Kurumsal", true, "", "Kurumsal", new DateTime(2024, 4, 6, 23, 33, 24, 916, DateTimeKind.Local).AddTicks(8189), 0, "APP", null },
+                    { 7, "Sonuçlar", "", 1, "Sonuçlar", "Sonuçlar", new DateTime(2024, 4, 6, 23, 33, 24, 916, DateTimeKind.Local).AddTicks(8203), "APP", 0, "Sonuçlar", true, "", "Sonuçlar", new DateTime(2024, 4, 6, 23, 33, 24, 916, DateTimeKind.Local).AddTicks(8203), 0, "APP", null },
+                    { 10, "Doktorlar", "", 1, "Doktorlar", "Doktorlar", new DateTime(2024, 4, 6, 23, 33, 24, 916, DateTimeKind.Local).AddTicks(8211), "APP", 0, "Doktorlar", true, "", "Doktorlar", new DateTime(2024, 4, 6, 23, 33, 24, 916, DateTimeKind.Local).AddTicks(8211), 0, "APP", null },
+                    { 3, "Hakkımızda", "", 1, "Hakkımızda", "Hakkımızda", new DateTime(2024, 4, 6, 23, 33, 24, 916, DateTimeKind.Local).AddTicks(8192), "APP", 0, "Hakkımızda", true, "", "Hakkımızda", new DateTime(2024, 4, 6, 23, 33, 24, 916, DateTimeKind.Local).AddTicks(8192), 0, "APP", 2 },
+                    { 8, "Reçete", "", 1, "Reçete", "Reçete", new DateTime(2024, 4, 6, 23, 33, 24, 916, DateTimeKind.Local).AddTicks(8205), "APP", 0, "Reçete", true, "", "Reçete", new DateTime(2024, 4, 6, 23, 33, 24, 916, DateTimeKind.Local).AddTicks(8206), 0, "APP", 7 },
+                    { 9, "Tahlil", "", 1, "Tahlil ", "Tahlil", new DateTime(2024, 4, 6, 23, 33, 24, 916, DateTimeKind.Local).AddTicks(8208), "APP", 0, "Tahlil", true, "", "Tahlil", new DateTime(2024, 4, 6, 23, 33, 24, 916, DateTimeKind.Local).AddTicks(8209), 0, "APP", 7 },
+                    { 4, "Misyon", "", 1, "Misyon", "Misyon", new DateTime(2024, 4, 6, 23, 33, 24, 916, DateTimeKind.Local).AddTicks(8194), "APP", 0, "Misyon", true, "", "Misyon", new DateTime(2024, 4, 6, 23, 33, 24, 916, DateTimeKind.Local).AddTicks(8195), 0, "APP", 3 },
+                    { 5, "Vizyon", "", 1, "Vizyon", "Vizyon", new DateTime(2024, 4, 6, 23, 33, 24, 916, DateTimeKind.Local).AddTicks(8197), "APP", 0, "Vizyon", true, "", "Vizyon", new DateTime(2024, 4, 6, 23, 33, 24, 916, DateTimeKind.Local).AddTicks(8198), 0, "APP", 3 },
+                    { 6, "Kariyer", "", 1, "Kariyer", "Kariyer", new DateTime(2024, 4, 6, 23, 33, 24, 916, DateTimeKind.Local).AddTicks(8200), "APP", 0, "Kariyer", true, "", "Kariyer", new DateTime(2024, 4, 6, 23, 33, 24, 916, DateTimeKind.Local).AddTicks(8201), 0, "APP", 3 }
                 });
 
             migrationBuilder.CreateIndex(

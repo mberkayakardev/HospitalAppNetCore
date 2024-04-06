@@ -1,10 +1,15 @@
-﻿
+﻿@model List<AppMenusListDto>
 
-<div class="dropdown"> 
-    <button class="dropbtn" onclick="myFunction()"> Dropdown  <i class="fa fa-caret-down"></i> </button>
-    <div class="dropdown-content" id="myDropdown">
-        <a href="#">Link 1</a>
-        <a href="#">Link 2</a>
-        <a href="#">Link 3</a>
-    </div>
-</div> 
+<ul>
+    @foreach (var item in Model)
+    {
+        <li> <a> @item.MenuName</a></li>
+        @if (item.ChildMenus != null && item.ChildMenus.Count != 0)
+        {
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <partial name="Partials/Navbar/LayoutNavbarPartial" model="@item.ChildMenus" />
+            </div>
+        }
+
+    }
+</ul>

@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace AkarSoftware.HospitalApp.Repositories.Migrations
 {
     [DbContext(typeof(MyContexts))]
-    [Migration("20240406004837_InitalCreate")]
+    [Migration("20240406203325_InitalCreate")]
     partial class InitalCreate
     {
         /// <inheritdoc />
@@ -97,57 +97,57 @@ namespace AkarSoftware.HospitalApp.Repositories.Migrations
                         new
                         {
                             Id = 1,
-                            ActionName = "RandevuAl",
+                            ActionName = "Randevu Al",
                             ActionParameters = "",
                             AppModulesId = 1,
-                            AreaName = "Landing",
-                            ControllerName = "Randevu",
-                            CreatedDate = new DateTime(2024, 4, 6, 3, 48, 37, 651, DateTimeKind.Local).AddTicks(3316),
+                            AreaName = "Randevu Al",
+                            ControllerName = "Randevu Al",
+                            CreatedDate = new DateTime(2024, 4, 6, 23, 33, 24, 916, DateTimeKind.Local).AddTicks(8172),
                             CreatedUser = "APP",
                             CreatedUserId = 0,
-                            IconName = "randevu",
+                            IconName = "Randevu Al",
                             IsActive = true,
-                            MenuDesctiption = "Randevu Al Linki için kullanılır ",
+                            MenuDesctiption = "Randevu Al",
                             MenuName = "Randevu Al",
-                            ModifiedDate = new DateTime(2024, 4, 6, 3, 48, 37, 651, DateTimeKind.Local).AddTicks(3331),
+                            ModifiedDate = new DateTime(2024, 4, 6, 23, 33, 24, 916, DateTimeKind.Local).AddTicks(8186),
                             ModifiedUserId = 0,
                             ModifiedUserName = "APP"
                         },
                         new
                         {
                             Id = 2,
-                            ActionName = "Index",
+                            ActionName = "Kurumsal",
                             ActionParameters = "",
                             AppModulesId = 1,
-                            AreaName = "Landing",
+                            AreaName = "Kurumsal",
                             ControllerName = "Kurumsal",
-                            CreatedDate = new DateTime(2024, 4, 6, 3, 48, 37, 651, DateTimeKind.Local).AddTicks(3333),
+                            CreatedDate = new DateTime(2024, 4, 6, 23, 33, 24, 916, DateTimeKind.Local).AddTicks(8189),
                             CreatedUser = "APP",
                             CreatedUserId = 0,
                             IconName = "Kurumsal",
                             IsActive = true,
                             MenuDesctiption = "",
                             MenuName = "Kurumsal",
-                            ModifiedDate = new DateTime(2024, 4, 6, 3, 48, 37, 651, DateTimeKind.Local).AddTicks(3334),
+                            ModifiedDate = new DateTime(2024, 4, 6, 23, 33, 24, 916, DateTimeKind.Local).AddTicks(8189),
                             ModifiedUserId = 0,
                             ModifiedUserName = "APP"
                         },
                         new
                         {
                             Id = 3,
-                            ActionName = "Index",
+                            ActionName = "Hakkımızda",
                             ActionParameters = "",
                             AppModulesId = 1,
                             AreaName = "Hakkımızda",
-                            ControllerName = "Kurumsal",
-                            CreatedDate = new DateTime(2024, 4, 6, 3, 48, 37, 651, DateTimeKind.Local).AddTicks(3336),
+                            ControllerName = "Hakkımızda",
+                            CreatedDate = new DateTime(2024, 4, 6, 23, 33, 24, 916, DateTimeKind.Local).AddTicks(8192),
                             CreatedUser = "APP",
                             CreatedUserId = 0,
-                            IconName = "Kurumsal",
+                            IconName = "Hakkımızda",
                             IsActive = true,
                             MenuDesctiption = "",
                             MenuName = "Hakkımızda",
-                            ModifiedDate = new DateTime(2024, 4, 6, 3, 48, 37, 651, DateTimeKind.Local).AddTicks(3337),
+                            ModifiedDate = new DateTime(2024, 4, 6, 23, 33, 24, 916, DateTimeKind.Local).AddTicks(8192),
                             ModifiedUserId = 0,
                             ModifiedUserName = "APP",
                             RootMenusId = 2
@@ -155,22 +155,140 @@ namespace AkarSoftware.HospitalApp.Repositories.Migrations
                         new
                         {
                             Id = 4,
-                            ActionName = "Index",
+                            ActionName = "Misyon",
                             ActionParameters = "",
                             AppModulesId = 1,
                             AreaName = "Misyon",
-                            ControllerName = "Kurumsal",
-                            CreatedDate = new DateTime(2024, 4, 6, 3, 48, 37, 651, DateTimeKind.Local).AddTicks(3367),
+                            ControllerName = "Misyon",
+                            CreatedDate = new DateTime(2024, 4, 6, 23, 33, 24, 916, DateTimeKind.Local).AddTicks(8194),
                             CreatedUser = "APP",
                             CreatedUserId = 0,
-                            IconName = "Kurumsal",
+                            IconName = "Misyon",
                             IsActive = true,
                             MenuDesctiption = "",
                             MenuName = "Misyon",
-                            ModifiedDate = new DateTime(2024, 4, 6, 3, 48, 37, 651, DateTimeKind.Local).AddTicks(3368),
+                            ModifiedDate = new DateTime(2024, 4, 6, 23, 33, 24, 916, DateTimeKind.Local).AddTicks(8195),
                             ModifiedUserId = 0,
                             ModifiedUserName = "APP",
                             RootMenusId = 3
+                        },
+                        new
+                        {
+                            Id = 5,
+                            ActionName = "Vizyon",
+                            ActionParameters = "",
+                            AppModulesId = 1,
+                            AreaName = "Vizyon",
+                            ControllerName = "Vizyon",
+                            CreatedDate = new DateTime(2024, 4, 6, 23, 33, 24, 916, DateTimeKind.Local).AddTicks(8197),
+                            CreatedUser = "APP",
+                            CreatedUserId = 0,
+                            IconName = "Vizyon",
+                            IsActive = true,
+                            MenuDesctiption = "",
+                            MenuName = "Vizyon",
+                            ModifiedDate = new DateTime(2024, 4, 6, 23, 33, 24, 916, DateTimeKind.Local).AddTicks(8198),
+                            ModifiedUserId = 0,
+                            ModifiedUserName = "APP",
+                            RootMenusId = 3
+                        },
+                        new
+                        {
+                            Id = 6,
+                            ActionName = "Kariyer",
+                            ActionParameters = "",
+                            AppModulesId = 1,
+                            AreaName = "Kariyer",
+                            ControllerName = "Kariyer",
+                            CreatedDate = new DateTime(2024, 4, 6, 23, 33, 24, 916, DateTimeKind.Local).AddTicks(8200),
+                            CreatedUser = "APP",
+                            CreatedUserId = 0,
+                            IconName = "Kariyer",
+                            IsActive = true,
+                            MenuDesctiption = "",
+                            MenuName = "Kariyer",
+                            ModifiedDate = new DateTime(2024, 4, 6, 23, 33, 24, 916, DateTimeKind.Local).AddTicks(8201),
+                            ModifiedUserId = 0,
+                            ModifiedUserName = "APP",
+                            RootMenusId = 3
+                        },
+                        new
+                        {
+                            Id = 7,
+                            ActionName = "Sonuçlar",
+                            ActionParameters = "",
+                            AppModulesId = 1,
+                            AreaName = "Sonuçlar",
+                            ControllerName = "Sonuçlar",
+                            CreatedDate = new DateTime(2024, 4, 6, 23, 33, 24, 916, DateTimeKind.Local).AddTicks(8203),
+                            CreatedUser = "APP",
+                            CreatedUserId = 0,
+                            IconName = "Sonuçlar",
+                            IsActive = true,
+                            MenuDesctiption = "",
+                            MenuName = "Sonuçlar",
+                            ModifiedDate = new DateTime(2024, 4, 6, 23, 33, 24, 916, DateTimeKind.Local).AddTicks(8203),
+                            ModifiedUserId = 0,
+                            ModifiedUserName = "APP"
+                        },
+                        new
+                        {
+                            Id = 8,
+                            ActionName = "Reçete",
+                            ActionParameters = "",
+                            AppModulesId = 1,
+                            AreaName = "Reçete",
+                            ControllerName = "Reçete",
+                            CreatedDate = new DateTime(2024, 4, 6, 23, 33, 24, 916, DateTimeKind.Local).AddTicks(8205),
+                            CreatedUser = "APP",
+                            CreatedUserId = 0,
+                            IconName = "Reçete",
+                            IsActive = true,
+                            MenuDesctiption = "",
+                            MenuName = "Reçete",
+                            ModifiedDate = new DateTime(2024, 4, 6, 23, 33, 24, 916, DateTimeKind.Local).AddTicks(8206),
+                            ModifiedUserId = 0,
+                            ModifiedUserName = "APP",
+                            RootMenusId = 7
+                        },
+                        new
+                        {
+                            Id = 9,
+                            ActionName = "Tahlil",
+                            ActionParameters = "",
+                            AppModulesId = 1,
+                            AreaName = "Tahlil ",
+                            ControllerName = "Tahlil",
+                            CreatedDate = new DateTime(2024, 4, 6, 23, 33, 24, 916, DateTimeKind.Local).AddTicks(8208),
+                            CreatedUser = "APP",
+                            CreatedUserId = 0,
+                            IconName = "Tahlil",
+                            IsActive = true,
+                            MenuDesctiption = "",
+                            MenuName = "Tahlil",
+                            ModifiedDate = new DateTime(2024, 4, 6, 23, 33, 24, 916, DateTimeKind.Local).AddTicks(8209),
+                            ModifiedUserId = 0,
+                            ModifiedUserName = "APP",
+                            RootMenusId = 7
+                        },
+                        new
+                        {
+                            Id = 10,
+                            ActionName = "Doktorlar",
+                            ActionParameters = "",
+                            AppModulesId = 1,
+                            AreaName = "Doktorlar",
+                            ControllerName = "Doktorlar",
+                            CreatedDate = new DateTime(2024, 4, 6, 23, 33, 24, 916, DateTimeKind.Local).AddTicks(8211),
+                            CreatedUser = "APP",
+                            CreatedUserId = 0,
+                            IconName = "Doktorlar",
+                            IsActive = true,
+                            MenuDesctiption = "",
+                            MenuName = "Doktorlar",
+                            ModifiedDate = new DateTime(2024, 4, 6, 23, 33, 24, 916, DateTimeKind.Local).AddTicks(8211),
+                            ModifiedUserId = 0,
+                            ModifiedUserName = "APP"
                         });
                 });
 
@@ -219,12 +337,12 @@ namespace AkarSoftware.HospitalApp.Repositories.Migrations
                         new
                         {
                             Id = 1,
-                            CreatedDate = new DateTime(2024, 4, 6, 3, 48, 37, 651, DateTimeKind.Local).AddTicks(3535),
+                            CreatedDate = new DateTime(2024, 4, 6, 23, 33, 24, 916, DateTimeKind.Local).AddTicks(8381),
                             CreatedUser = "APP",
                             CreatedUserId = 0,
                             Description = "Herkesin Gördüğü Tanıtım Sayfası İçeriklerini içermektedir ",
                             IsActive = true,
-                            ModifiedDate = new DateTime(2024, 4, 6, 3, 48, 37, 651, DateTimeKind.Local).AddTicks(3536),
+                            ModifiedDate = new DateTime(2024, 4, 6, 23, 33, 24, 916, DateTimeKind.Local).AddTicks(8382),
                             ModifiedUserId = 0,
                             ModifiedUserName = "APP",
                             Name = "Landing"
@@ -232,12 +350,12 @@ namespace AkarSoftware.HospitalApp.Repositories.Migrations
                         new
                         {
                             Id = 2,
-                            CreatedDate = new DateTime(2024, 4, 6, 3, 48, 37, 651, DateTimeKind.Local).AddTicks(3538),
+                            CreatedDate = new DateTime(2024, 4, 6, 23, 33, 24, 916, DateTimeKind.Local).AddTicks(8384),
                             CreatedUser = "APP",
                             CreatedUserId = 0,
                             Description = "Bilgi İşlem Direktörlüğü ve Şirket sahiplerinin erişebildiği bir Modül ",
                             IsActive = true,
-                            ModifiedDate = new DateTime(2024, 4, 6, 3, 48, 37, 651, DateTimeKind.Local).AddTicks(3538),
+                            ModifiedDate = new DateTime(2024, 4, 6, 23, 33, 24, 916, DateTimeKind.Local).AddTicks(8384),
                             ModifiedUserId = 0,
                             ModifiedUserName = "APP",
                             Name = "Admin"
@@ -501,11 +619,11 @@ namespace AkarSoftware.HospitalApp.Repositories.Migrations
                         new
                         {
                             Id = 1,
-                            CreatedDate = new DateTime(2024, 4, 6, 3, 48, 37, 651, DateTimeKind.Local).AddTicks(3630),
+                            CreatedDate = new DateTime(2024, 4, 6, 23, 33, 24, 916, DateTimeKind.Local).AddTicks(8483),
                             CreatedUser = "APP",
                             CreatedUserId = 0,
                             IsActive = true,
-                            ModifiedDate = new DateTime(2024, 4, 6, 3, 48, 37, 651, DateTimeKind.Local).AddTicks(3631),
+                            ModifiedDate = new DateTime(2024, 4, 6, 23, 33, 24, 916, DateTimeKind.Local).AddTicks(8484),
                             ModifiedUserId = 0,
                             ModifiedUserName = "APP",
                             Name = "Erkek"
@@ -513,11 +631,11 @@ namespace AkarSoftware.HospitalApp.Repositories.Migrations
                         new
                         {
                             Id = 2,
-                            CreatedDate = new DateTime(2024, 4, 6, 3, 48, 37, 651, DateTimeKind.Local).AddTicks(3632),
+                            CreatedDate = new DateTime(2024, 4, 6, 23, 33, 24, 916, DateTimeKind.Local).AddTicks(8486),
                             CreatedUser = "APP",
                             CreatedUserId = 0,
                             IsActive = true,
-                            ModifiedDate = new DateTime(2024, 4, 6, 3, 48, 37, 651, DateTimeKind.Local).AddTicks(3633),
+                            ModifiedDate = new DateTime(2024, 4, 6, 23, 33, 24, 916, DateTimeKind.Local).AddTicks(8487),
                             ModifiedUserId = 0,
                             ModifiedUserName = "APP",
                             Name = "Kadın"
@@ -525,11 +643,11 @@ namespace AkarSoftware.HospitalApp.Repositories.Migrations
                         new
                         {
                             Id = 3,
-                            CreatedDate = new DateTime(2024, 4, 6, 3, 48, 37, 651, DateTimeKind.Local).AddTicks(3634),
+                            CreatedDate = new DateTime(2024, 4, 6, 23, 33, 24, 916, DateTimeKind.Local).AddTicks(8488),
                             CreatedUser = "APP",
                             CreatedUserId = 0,
                             IsActive = true,
-                            ModifiedDate = new DateTime(2024, 4, 6, 3, 48, 37, 651, DateTimeKind.Local).AddTicks(3635),
+                            ModifiedDate = new DateTime(2024, 4, 6, 23, 33, 24, 916, DateTimeKind.Local).AddTicks(8489),
                             ModifiedUserId = 0,
                             ModifiedUserName = "APP",
                             Name = "Belirtmek İstemiyor"

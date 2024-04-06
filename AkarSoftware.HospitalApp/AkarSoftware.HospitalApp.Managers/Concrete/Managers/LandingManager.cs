@@ -19,7 +19,7 @@ namespace AkarSoftware.HospitalApp.Managers.Concrete.Managers
         public async Task<IDataResult<List<AppMenusListDto>>> GetLandingNavigationMenus()
         {
             var repository = _UnitOfWork.GetGenericRepositories<AppMenus>();
-            var result =  await repository.GetAllAsync(x => x.AppModules.Id == 1 && x.RootMenusId == null , IncludeProperties: new Expression<Func<AppMenus, object>>[] {c=> c.RootMenus, c=> c.ChildMenus} );
+            var result =  await repository.GetAllAsync( IncludeProperties: new Expression<Func<AppMenus, object>>[] {c=> c.RootMenus, c=> c.ChildMenus} );
             
             if (result == null || result.Count == 0 )
                 return new ErrorDataResult<List<AppMenusListDto>>(Messages.Status.NotFound);
