@@ -1,0 +1,30 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Electrolize&display=swap'); /* Font Eklemesi Yapıldı */
+
+* {
+    margin : 0px;
+}
+
+body {
+    height: 100vh; /* Bu neden bunu anlamadım */
+    font-family: "Electrolize", sans-serif;
+    font-style: normal;
+}
+
+nav {
+    position: sticky;
+    top: 0;
+}
+
+
+
+.navbar-master {
+    display: flex;
+    justify-content: space-between; /* ortaladı x ekseninde  */
+    align-items: center; /* y ekseninde */
+    padding: 10px;
+}
+
+.navbar-items ul li {
+    display: inline;
+    padding: 0px;
+}

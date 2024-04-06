@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AkarSoftware.HospitalApp.Entities")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+026d9aa74e03c8af916e0df16a8b609a2f3454e3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ba8366eece5e3d3e8b5982440d0f73b9f27adb6")]
 [assembly: System.Reflection.AssemblyProductAttribute("AkarSoftware.HospitalApp.Entities")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AkarSoftware.HospitalApp.Entities")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

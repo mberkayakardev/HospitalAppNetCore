@@ -1,0 +1,39 @@
+﻿@model List<AppMenusListDto>
+
+
+<header>
+    <nav>
+        <div class="navbar-master bg-dark text-white">
+            <div class="navbar-logo">
+                <p> Akar Hastanesi  </p>
+            </div>
+            <div class="navbar-items">
+                <ul>
+                    @if (Model != null && Model.Count > 0)
+                    {
+                        foreach (var item in Model)
+                        {
+                            if (item.ChildMenus != null && item.ChildMenus.Count == 0 )
+                            {
+                                <a>@item.MenuName</a>
+                            }
+                            else
+                            {
+
+
+                            }
+                        }
+                    }
+                </ul>
+
+            </div>
+            <div class="navbar-personal">
+                <p> Sag  menu </p>
+            </div>
+
+        </div>
+        
+    </nav>
+</header>
+
+

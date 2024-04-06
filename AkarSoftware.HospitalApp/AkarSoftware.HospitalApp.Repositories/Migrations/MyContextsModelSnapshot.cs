@@ -79,11 +79,96 @@ namespace AkarSoftware.HospitalApp.Repositories.Migrations
                     b.Property<string>("ModifiedUserName")
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<int?>("RootMenusId")
+                        .HasColumnType("int");
+
                     b.HasKey("Id");
 
                     b.HasIndex("AppModulesId");
 
+                    b.HasIndex("RootMenusId");
+
                     b.ToTable("AppMenus");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            ActionName = "RandevuAl",
+                            ActionParameters = "",
+                            AppModulesId = 1,
+                            AreaName = "Landing",
+                            ControllerName = "Randevu",
+                            CreatedDate = new DateTime(2024, 4, 6, 3, 48, 37, 651, DateTimeKind.Local).AddTicks(3316),
+                            CreatedUser = "APP",
+                            CreatedUserId = 0,
+                            IconName = "randevu",
+                            IsActive = true,
+                            MenuDesctiption = "Randevu Al Linki için kullanılır ",
+                            MenuName = "Randevu Al",
+                            ModifiedDate = new DateTime(2024, 4, 6, 3, 48, 37, 651, DateTimeKind.Local).AddTicks(3331),
+                            ModifiedUserId = 0,
+                            ModifiedUserName = "APP"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            ActionName = "Index",
+                            ActionParameters = "",
+                            AppModulesId = 1,
+                            AreaName = "Landing",
+                            ControllerName = "Kurumsal",
+                            CreatedDate = new DateTime(2024, 4, 6, 3, 48, 37, 651, DateTimeKind.Local).AddTicks(3333),
+                            CreatedUser = "APP",
+                            CreatedUserId = 0,
+                            IconName = "Kurumsal",
+                            IsActive = true,
+                            MenuDesctiption = "",
+                            MenuName = "Kurumsal",
+                            ModifiedDate = new DateTime(2024, 4, 6, 3, 48, 37, 651, DateTimeKind.Local).AddTicks(3334),
+                            ModifiedUserId = 0,
+                            ModifiedUserName = "APP"
+                        },
+                        new
+                        {
+                            Id = 3,
+                            ActionName = "Index",
+                            ActionParameters = "",
+                            AppModulesId = 1,
+                            AreaName = "Hakkımızda",
+                            ControllerName = "Kurumsal",
+                            CreatedDate = new DateTime(2024, 4, 6, 3, 48, 37, 651, DateTimeKind.Local).AddTicks(3336),
+                            CreatedUser = "APP",
+                            CreatedUserId = 0,
+                            IconName = "Kurumsal",
+                            IsActive = true,
+                            MenuDesctiption = "",
+                            MenuName = "Hakkımızda",
+                            ModifiedDate = new DateTime(2024, 4, 6, 3, 48, 37, 651, DateTimeKind.Local).AddTicks(3337),
+                            ModifiedUserId = 0,
+                            ModifiedUserName = "APP",
+                            RootMenusId = 2
+                        },
+                        new
+                        {
+                            Id = 4,
+                            ActionName = "Index",
+                            ActionParameters = "",
+                            AppModulesId = 1,
+                            AreaName = "Misyon",
+                            ControllerName = "Kurumsal",
+                            CreatedDate = new DateTime(2024, 4, 6, 3, 48, 37, 651, DateTimeKind.Local).AddTicks(3367),
+                            CreatedUser = "APP",
+                            CreatedUserId = 0,
+                            IconName = "Kurumsal",
+                            IsActive = true,
+                            MenuDesctiption = "",
+                            MenuName = "Misyon",
+                            ModifiedDate = new DateTime(2024, 4, 6, 3, 48, 37, 651, DateTimeKind.Local).AddTicks(3368),
+                            ModifiedUserId = 0,
+                            ModifiedUserName = "APP",
+                            RootMenusId = 3
+                        });
                 });
 
             modelBuilder.Entity("AkarSoftware.HospitalApp.Entities.Concrete.Identities.AppModules", b =>
@@ -120,11 +205,40 @@ namespace AkarSoftware.HospitalApp.Repositories.Migrations
 
                     b.Property<string>("Name")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(256)
+                        .HasColumnType("nvarchar(256)");
 
                     b.HasKey("Id");
 
                     b.ToTable("AppModules");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            CreatedDate = new DateTime(2024, 4, 6, 3, 48, 37, 651, DateTimeKind.Local).AddTicks(3535),
+                            CreatedUser = "APP",
+                            CreatedUserId = 0,
+                            Description = "Herkesin Gördüğü Tanıtım Sayfası İçeriklerini içermektedir ",
+                            IsActive = true,
+                            ModifiedDate = new DateTime(2024, 4, 6, 3, 48, 37, 651, DateTimeKind.Local).AddTicks(3536),
+                            ModifiedUserId = 0,
+                            ModifiedUserName = "APP",
+                            Name = "Landing"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            CreatedDate = new DateTime(2024, 4, 6, 3, 48, 37, 651, DateTimeKind.Local).AddTicks(3538),
+                            CreatedUser = "APP",
+                            CreatedUserId = 0,
+                            Description = "Bilgi İşlem Direktörlüğü ve Şirket sahiplerinin erişebildiği bir Modül ",
+                            IsActive = true,
+                            ModifiedDate = new DateTime(2024, 4, 6, 3, 48, 37, 651, DateTimeKind.Local).AddTicks(3538),
+                            ModifiedUserId = 0,
+                            ModifiedUserName = "APP",
+                            Name = "Admin"
+                        });
                 });
 
             modelBuilder.Entity("AkarSoftware.HospitalApp.Entities.Concrete.Identities.AppRoles", b =>
@@ -384,11 +498,11 @@ namespace AkarSoftware.HospitalApp.Repositories.Migrations
                         new
                         {
                             Id = 1,
-                            CreatedDate = new DateTime(2024, 4, 6, 3, 3, 55, 571, DateTimeKind.Local).AddTicks(1084),
+                            CreatedDate = new DateTime(2024, 4, 6, 3, 48, 37, 651, DateTimeKind.Local).AddTicks(3630),
                             CreatedUser = "APP",
                             CreatedUserId = 0,
                             IsActive = true,
-                            ModifiedDate = new DateTime(2024, 4, 6, 3, 3, 55, 571, DateTimeKind.Local).AddTicks(1101),
+                            ModifiedDate = new DateTime(2024, 4, 6, 3, 48, 37, 651, DateTimeKind.Local).AddTicks(3631),
                             ModifiedUserId = 0,
                             ModifiedUserName = "APP",
                             Name = "Erkek"
@@ -396,11 +510,11 @@ namespace AkarSoftware.HospitalApp.Repositories.Migrations
                         new
                         {
                             Id = 2,
-                            CreatedDate = new DateTime(2024, 4, 6, 3, 3, 55, 571, DateTimeKind.Local).AddTicks(1103),
+                            CreatedDate = new DateTime(2024, 4, 6, 3, 48, 37, 651, DateTimeKind.Local).AddTicks(3632),
                             CreatedUser = "APP",
                             CreatedUserId = 0,
                             IsActive = true,
-                            ModifiedDate = new DateTime(2024, 4, 6, 3, 3, 55, 571, DateTimeKind.Local).AddTicks(1104),
+                            ModifiedDate = new DateTime(2024, 4, 6, 3, 48, 37, 651, DateTimeKind.Local).AddTicks(3633),
                             ModifiedUserId = 0,
                             ModifiedUserName = "APP",
                             Name = "Kadın"
@@ -408,11 +522,11 @@ namespace AkarSoftware.HospitalApp.Repositories.Migrations
                         new
                         {
                             Id = 3,
-                            CreatedDate = new DateTime(2024, 4, 6, 3, 3, 55, 571, DateTimeKind.Local).AddTicks(1105),
+                            CreatedDate = new DateTime(2024, 4, 6, 3, 48, 37, 651, DateTimeKind.Local).AddTicks(3634),
                             CreatedUser = "APP",
                             CreatedUserId = 0,
                             IsActive = true,
-                            ModifiedDate = new DateTime(2024, 4, 6, 3, 3, 55, 571, DateTimeKind.Local).AddTicks(1106),
+                            ModifiedDate = new DateTime(2024, 4, 6, 3, 48, 37, 651, DateTimeKind.Local).AddTicks(3635),
                             ModifiedUserId = 0,
                             ModifiedUserName = "APP",
                             Name = "Belirtmek İstemiyor"
@@ -425,7 +539,13 @@ namespace AkarSoftware.HospitalApp.Repositories.Migrations
                         .WithMany("AppMenus")
                         .HasForeignKey("AppModulesId");
 
+                    b.HasOne("AkarSoftware.HospitalApp.Entities.Concrete.Identities.AppMenus", "RootMenus")
+                        .WithMany("ChildMenus")
+                        .HasForeignKey("RootMenusId");
+
                     b.Navigation("AppModules");
+
+                    b.Navigation("RootMenus");
                 });
 
             modelBuilder.Entity("AkarSoftware.HospitalApp.Entities.Concrete.Identities.AppRolesMenus", b =>
@@ -480,6 +600,8 @@ namespace AkarSoftware.HospitalApp.Repositories.Migrations
             modelBuilder.Entity("AkarSoftware.HospitalApp.Entities.Concrete.Identities.AppMenus", b =>
                 {
                     b.Navigation("AppRolesMenus");
+
+                    b.Navigation("ChildMenus");
                 });
 
             modelBuilder.Entity("AkarSoftware.HospitalApp.Entities.Concrete.Identities.AppModules", b =>

@@ -1,4 +1,7 @@
-﻿using AkarSoftware.HospitalApp.Managers.Concrete.Options.Cloudinary;
+﻿using AkarSoftware.HospitalApp.Managers.Abstract;
+using AkarSoftware.HospitalApp.Managers.Concrete.Managers;
+using AkarSoftware.HospitalApp.Managers.Concrete.Managers.Media;
+using AkarSoftware.HospitalApp.Managers.Concrete.Options.Cloudinary;
 using AkarSoftware.HospitalApp.Repositories.Abstract.EntityFramework;
 using AkarSoftware.HospitalApp.Repositories.Concrete.EntityFramework.Contexts;
 using AkarSoftware.HospitalApp.Repositories.Concrete.EntityFramework.UOW;
@@ -124,6 +127,9 @@ namespace AkarSoftware.HospitalApp.Managers.Concrete.DependencyResolves.Microsof
         /// </summary>
         private static void AddDependencies(IServiceCollection Services, IHostEnvironment Environment, IConfiguration Configuration)
         {
+            Services.AddScoped<IMediaServices, CloudinaryManager>();
+
+            Services.AddScoped<ILandingService, LandingManager>();
 
         }
 

@@ -74,11 +74,12 @@
 * JQuery
 * Distrubuted Cache 
 * Reflections
+* ToastrNotify
 * Cloudinary Blob Storage
 <br>
 <hr>
 
 <h2 id="VeriTabani"> Veri Tabanı  </id>
-
- <img src ="https://github.com/mberkayakardev/HospitalAppNetCore/blob/master/Medias/Diagram1Rolleme.png?raw=true" >
+<br>
+<img src ="https://github.com/mberkayakardev/HospitalAppNetCore/blob/master/Medias/Diagram1Rolleme.png?raw=true" >
 

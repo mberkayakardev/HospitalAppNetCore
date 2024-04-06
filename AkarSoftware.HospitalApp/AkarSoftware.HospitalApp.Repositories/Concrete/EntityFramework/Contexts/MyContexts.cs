@@ -1,6 +1,7 @@
 ﻿using AkarSoftware.HospitalApp.Entities.Concrete.Identities;
 using Microsoft.EntityFrameworkCore;
 using System.Reflection;
+using System.Reflection.Emit;
 
 namespace AkarSoftware.HospitalApp.Repositories.Concrete.EntityFramework.Contexts
 {
@@ -14,6 +15,9 @@ namespace AkarSoftware.HospitalApp.Repositories.Concrete.EntityFramework.Context
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+
+     
+
             modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
         }
 

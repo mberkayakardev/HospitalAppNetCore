@@ -1,10 +1,15 @@
 ﻿using AkarSoftware.HospitalApp.Managers.Concrete.DependencyResolves.Microsoft;
+using AspNetCoreHero.ToastNotification;
+using AspNetCoreHero.ToastNotification.Extensions;
+using Microsoft.Extensions.FileProviders;
 
 var builder = WebApplication.CreateBuilder(args);
 
 #region Services
 
-builder.Services.AddControllersWithViews();
+builder.Services.AddControllersWithViews().AddRazorRuntimeCompilation();
+builder.Services.AddNotyf(config => { config.DurationInSeconds = 5; config.IsDismissable = true; config.Position = NotyfPosition.BottomRight; });
+
 builder.Services.AddCostumeDependencies(builder.Environment, builder.Configuration);
 #endregion
 
@@ -20,6 +25,11 @@ else
     app.UseExceptionHandler("/exception");
     app.UseHsts(); // Http yönlendirmeyi zorunlu kılmak için eklenmiştir. 
 }
+
+// ToastrNotify Eklendi 
+app.UseNotyf();
+
+
 // Costume Status Page
 app.UseStatusCodePagesWithReExecute("/Error/{0}"); // Costume Exception Handler
 
@@ -32,7 +42,7 @@ app.UseHttpsRedirection(); // Http Yönlendirme için
 
 /// Static Files Middleware
 app.UseStaticFiles();
-//app.UseStaticFiles(new StaticFileOptions { RequestPath = "/node_modules", FileProvider = new PhysicalFileProvider(Path.Combine(Directory.GetCurrentDirectory() + "/node_modules")) });
+app.UseStaticFiles(new StaticFileOptions { RequestPath = "/node_modules", FileProvider = new PhysicalFileProvider(Path.Combine(Directory.GetCurrentDirectory() + "/node_modules")) });
 
 // Routing
 app.UseRouting();

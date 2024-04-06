@@ -14,7 +14,7 @@ build_property.EnableComHosting =
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
-build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = D:\Github\HastaneOtomasyonu\AkarSoftware.HospitalApp\AkarSoftware.HospitalApp.MVCUI
 build_property._RazorSourceGeneratorDebug = 
 
@@ -28,6 +28,18 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/Github/HastaneOtomasyonu/AkarSoftware.HospitalApp/AkarSoftware.HospitalApp.MVCUI/Areas/Landing/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTGFuZGluZ1xWaWV3c1xIb21lXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Github/HastaneOtomasyonu/AkarSoftware.HospitalApp/AkarSoftware.HospitalApp.MVCUI/Areas/Landing/Views/Shared/Components/Navbar/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTGFuZGluZ1xWaWV3c1xTaGFyZWRcQ29tcG9uZW50c1xOYXZiYXJcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Github/HastaneOtomasyonu/AkarSoftware.HospitalApp/AkarSoftware.HospitalApp.MVCUI/Areas/Landing/Views/Shared/Partials/Navbar/LayoutNavbarPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTGFuZGluZ1xWaWV3c1xTaGFyZWRcUGFydGlhbHNcTmF2YmFyXExheW91dE5hdmJhclBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Github/HastaneOtomasyonu/AkarSoftware.HospitalApp/AkarSoftware.HospitalApp.MVCUI/Areas/Landing/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTGFuZGluZ1xWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Github/HastaneOtomasyonu/AkarSoftware.HospitalApp/AkarSoftware.HospitalApp.MVCUI/Areas/Landing/Views/_ViewStart.cshtml]
@@ -46,6 +58,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dHNcX0xhbmRpbmdMYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Github/HastaneOtomasyonu/AkarSoftware.HospitalApp/AkarSoftware.HospitalApp.MVCUI/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[D:/Github/HastaneOtomasyonu/AkarSoftware.HospitalApp/AkarSoftware.HospitalApp.MVCUI/Views/Shared/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WaWV3SW1wb3J0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

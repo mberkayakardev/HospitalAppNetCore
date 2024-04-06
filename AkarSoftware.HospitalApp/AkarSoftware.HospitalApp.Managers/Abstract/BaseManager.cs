@@ -5,8 +5,8 @@ namespace AkarSoftware.HospitalApp.Managers.Abstract
 {
     public class BaseManager
     {
-        private readonly IMapper _Mapper;
-        private readonly IUnitOfWork _UnitOfWork;
+        protected readonly IMapper _Mapper;
+        protected readonly IUnitOfWork _UnitOfWork;
         public BaseManager(IMapper mapper, IUnitOfWork unitOfWork)
         {
             _Mapper = mapper;

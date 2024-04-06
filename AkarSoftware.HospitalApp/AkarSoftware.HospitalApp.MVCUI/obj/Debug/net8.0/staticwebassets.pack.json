@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.MVCUI\\wwwroot\\Landing\\css\\_Landing.css",
+      "PackagePath": "staticwebassets\\Landing\\css\\_Landing.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AkarSoftware.HospitalApp.MVCUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AkarSoftware.HospitalApp.MVCUI.props",
+      "PackagePath": "build\\AkarSoftware.HospitalApp.MVCUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AkarSoftware.HospitalApp.MVCUI.props",
+      "PackagePath": "buildMultiTargeting\\AkarSoftware.HospitalApp.MVCUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AkarSoftware.HospitalApp.MVCUI.props",
+      "PackagePath": "buildTransitive\\AkarSoftware.HospitalApp.MVCUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
