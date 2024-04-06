@@ -290,7 +290,7 @@
             },
             "CloudinaryDotNet": {
               "target": "Package",
-              "version": "[1.26.2, )"
+              "version": "[1.26.0, )"
             },
             "Microsoft.AspNetCore.Hosting": {
               "target": "Package",
@@ -370,6 +370,14 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

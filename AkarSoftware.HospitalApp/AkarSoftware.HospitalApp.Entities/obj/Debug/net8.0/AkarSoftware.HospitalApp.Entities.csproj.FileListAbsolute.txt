@@ -1,0 +1,16 @@
+D:\Github\HastaneOtomasyonu\AkarSoftware.HospitalApp\AkarSoftware.HospitalApp.Entities\bin\Debug\net8.0\AkarSoftware.HospitalApp.Entities.deps.json
+D:\Github\HastaneOtomasyonu\AkarSoftware.HospitalApp\AkarSoftware.HospitalApp.Entities\bin\Debug\net8.0\AkarSoftware.HospitalApp.Entities.dll
+D:\Github\HastaneOtomasyonu\AkarSoftware.HospitalApp\AkarSoftware.HospitalApp.Entities\bin\Debug\net8.0\AkarSoftware.HospitalApp.Entities.pdb
+D:\Github\HastaneOtomasyonu\AkarSoftware.HospitalApp\AkarSoftware.HospitalApp.Entities\bin\Debug\net8.0\AkarSoftware.HospitalApp.Core.dll
+D:\Github\HastaneOtomasyonu\AkarSoftware.HospitalApp\AkarSoftware.HospitalApp.Entities\bin\Debug\net8.0\AkarSoftware.HospitalApp.Core.pdb
+D:\Github\HastaneOtomasyonu\AkarSoftware.HospitalApp\AkarSoftware.HospitalApp.Entities\obj\Debug\net8.0\AkarSoftware.HospitalApp.Entities.csproj.AssemblyReference.cache
+D:\Github\HastaneOtomasyonu\AkarSoftware.HospitalApp\AkarSoftware.HospitalApp.Entities\obj\Debug\net8.0\AkarSoftware.HospitalApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\HastaneOtomasyonu\AkarSoftware.HospitalApp\AkarSoftware.HospitalApp.Entities\obj\Debug\net8.0\AkarSoftware.HospitalApp.Entities.AssemblyInfoInputs.cache
+D:\Github\HastaneOtomasyonu\AkarSoftware.HospitalApp\AkarSoftware.HospitalApp.Entities\obj\Debug\net8.0\AkarSoftware.HospitalApp.Entities.AssemblyInfo.cs
+D:\Github\HastaneOtomasyonu\AkarSoftware.HospitalApp\AkarSoftware.HospitalApp.Entities\obj\Debug\net8.0\AkarSoftware.HospitalApp.Entities.csproj.CoreCompileInputs.cache
+D:\Github\HastaneOtomasyonu\AkarSoftware.HospitalApp\AkarSoftware.HospitalApp.Entities\obj\Debug\net8.0\AkarSoftware.HospitalApp.Entities.sourcelink.json
+D:\Github\HastaneOtomasyonu\AkarSoftware.HospitalApp\AkarSoftware.HospitalApp.Entities\obj\Debug\net8.0\AkarSoft.17C79B94.Up2Date
+D:\Github\HastaneOtomasyonu\AkarSoftware.HospitalApp\AkarSoftware.HospitalApp.Entities\obj\Debug\net8.0\AkarSoftware.HospitalApp.Entities.dll
+D:\Github\HastaneOtomasyonu\AkarSoftware.HospitalApp\AkarSoftware.HospitalApp.Entities\obj\Debug\net8.0\refint\AkarSoftware.HospitalApp.Entities.dll
+D:\Github\HastaneOtomasyonu\AkarSoftware.HospitalApp\AkarSoftware.HospitalApp.Entities\obj\Debug\net8.0\AkarSoftware.HospitalApp.Entities.pdb
+D:\Github\HastaneOtomasyonu\AkarSoftware.HospitalApp\AkarSoftware.HospitalApp.Entities\obj\Debug\net8.0\ref\AkarSoftware.HospitalApp.Entities.dll

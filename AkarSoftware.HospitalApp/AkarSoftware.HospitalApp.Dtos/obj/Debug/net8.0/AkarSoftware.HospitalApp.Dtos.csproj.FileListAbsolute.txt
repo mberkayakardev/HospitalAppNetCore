@@ -1,0 +1,16 @@
+D:\Github\HastaneOtomasyonu\AkarSoftware.HospitalApp\AkarSoftware.HospitalApp.Dtos\bin\Debug\net8.0\AkarSoftware.HospitalApp.Dtos.deps.json
+D:\Github\HastaneOtomasyonu\AkarSoftware.HospitalApp\AkarSoftware.HospitalApp.Dtos\bin\Debug\net8.0\AkarSoftware.HospitalApp.Dtos.dll
+D:\Github\HastaneOtomasyonu\AkarSoftware.HospitalApp\AkarSoftware.HospitalApp.Dtos\bin\Debug\net8.0\AkarSoftware.HospitalApp.Dtos.pdb
+D:\Github\HastaneOtomasyonu\AkarSoftware.HospitalApp\AkarSoftware.HospitalApp.Dtos\bin\Debug\net8.0\AkarSoftware.HospitalApp.Core.dll
+D:\Github\HastaneOtomasyonu\AkarSoftware.HospitalApp\AkarSoftware.HospitalApp.Dtos\bin\Debug\net8.0\AkarSoftware.HospitalApp.Core.pdb
+D:\Github\HastaneOtomasyonu\AkarSoftware.HospitalApp\AkarSoftware.HospitalApp.Dtos\obj\Debug\net8.0\AkarSoftware.HospitalApp.Dtos.csproj.AssemblyReference.cache
+D:\Github\HastaneOtomasyonu\AkarSoftware.HospitalApp\AkarSoftware.HospitalApp.Dtos\obj\Debug\net8.0\AkarSoftware.HospitalApp.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\HastaneOtomasyonu\AkarSoftware.HospitalApp\AkarSoftware.HospitalApp.Dtos\obj\Debug\net8.0\AkarSoftware.HospitalApp.Dtos.AssemblyInfoInputs.cache
+D:\Github\HastaneOtomasyonu\AkarSoftware.HospitalApp\AkarSoftware.HospitalApp.Dtos\obj\Debug\net8.0\AkarSoftware.HospitalApp.Dtos.AssemblyInfo.cs
+D:\Github\HastaneOtomasyonu\AkarSoftware.HospitalApp\AkarSoftware.HospitalApp.Dtos\obj\Debug\net8.0\AkarSoftware.HospitalApp.Dtos.csproj.CoreCompileInputs.cache
+D:\Github\HastaneOtomasyonu\AkarSoftware.HospitalApp\AkarSoftware.HospitalApp.Dtos\obj\Debug\net8.0\AkarSoftware.HospitalApp.Dtos.sourcelink.json
+D:\Github\HastaneOtomasyonu\AkarSoftware.HospitalApp\AkarSoftware.HospitalApp.Dtos\obj\Debug\net8.0\AkarSoft.66CE43F8.Up2Date
+D:\Github\HastaneOtomasyonu\AkarSoftware.HospitalApp\AkarSoftware.HospitalApp.Dtos\obj\Debug\net8.0\AkarSoftware.HospitalApp.Dtos.dll
+D:\Github\HastaneOtomasyonu\AkarSoftware.HospitalApp\AkarSoftware.HospitalApp.Dtos\obj\Debug\net8.0\refint\AkarSoftware.HospitalApp.Dtos.dll
+D:\Github\HastaneOtomasyonu\AkarSoftware.HospitalApp\AkarSoftware.HospitalApp.Dtos\obj\Debug\net8.0\AkarSoftware.HospitalApp.Dtos.pdb
+D:\Github\HastaneOtomasyonu\AkarSoftware.HospitalApp\AkarSoftware.HospitalApp.Dtos\obj\Debug\net8.0\ref\AkarSoftware.HospitalApp.Dtos.dll

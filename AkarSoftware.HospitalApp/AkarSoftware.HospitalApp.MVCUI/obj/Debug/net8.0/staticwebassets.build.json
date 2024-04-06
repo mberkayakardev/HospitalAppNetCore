@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "ItxiAqtZrOBRDII+CF1Cm2RY5UBVeryFqAxUX0yFXaU=",
+  "Source": "AkarSoftware.HospitalApp.MVCUI",
+  "BasePath": "_content/AkarSoftware.HospitalApp.MVCUI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AkarSoftware.HospitalApp.MVCUI\\wwwroot",
+      "Source": "AkarSoftware.HospitalApp.MVCUI",
+      "ContentRoot": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.MVCUI\\wwwroot\\",
+      "BasePath": "_content/AkarSoftware.HospitalApp.MVCUI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
