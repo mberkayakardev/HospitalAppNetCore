@@ -19,6 +19,9 @@
     <li>
       <a href="#Proje-Hakkinda">Proje Hakkında</a>
     </li>
+        <li>
+      <a href="#VeriTabani"> Veri Tabanı </a>
+    </li>
     <li>
       <a href="#teknolojiler">Kullanılan Teknolojiler </a>
     </li>
@@ -30,7 +33,6 @@
 <!-- ABOUT THE PROJECT -->
 <h2 id="Proje-Hakkinda"> Proje Hakkında </h2>
 
- <!-- <img src ="https://github.com/mberkayakardev/E_Commerce_With_Core_MVC/blob/master/Resimler/CostumerKarsilama.png?raw=true" > -->
  
 
  
@@ -73,3 +75,10 @@
 * Distrubuted Cache 
 * Reflections
 * Cloudinary Blob Storage
+<br>
+<hr>
+
+<h2 id="VeriTabani"> Veri Tabanı  </id>
+
+ <img src ="https://github.com/mberkayakardev/HospitalAppNetCore/blob/master/Medias/Diagram1Rolleme.png?raw=true" >
+
