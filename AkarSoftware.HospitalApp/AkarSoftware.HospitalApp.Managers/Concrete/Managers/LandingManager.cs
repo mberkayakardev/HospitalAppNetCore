@@ -16,14 +16,26 @@ namespace AkarSoftware.HospitalApp.Managers.Concrete.Managers
         {
         }
 
+        //public async Task<IDataResult<List<AppMenusListDto>>> GetLandingNavigationMenus()
+        //{
+        //    var repository = _UnitOfWork.GetGenericRepositories<AppMenus>();
+        //    var result =  await repository.GetAllAsync( IncludeProperties: new Expression<Func<AppMenus, object>>[] {c=> c.RootMenus, c=> c.ChildMenus} );
+            
+        //    if (result == null || result.Count == 0 )
+        //        return new ErrorDataResult<List<AppMenusListDto>>(Messages.Status.NotFound);
+           
+        //    var Dtos = _Mapper.Map<List<AppMenusListDto>>(result);
+        //    return new DataResult<List<AppMenusListDto>>(Dtos, status: Core.Utilities.Result.ComplexTypes.ResultStatus.Success);
+        //}
+
         public async Task<IDataResult<List<AppMenusListDto>>> GetLandingNavigationMenus()
         {
-            var repository = _UnitOfWork.GetGenericRepositories<AppMenus>();
-            var result =  await repository.GetAllAsync( IncludeProperties: new Expression<Func<AppMenus, object>>[] {c=> c.RootMenus, c=> c.ChildMenus} );
-            
-            if (result == null || result.Count == 0 )
+            var repository = _UnitOfWork.AppMenuRepository;
+            var result = await repository.GetAllAppMenusForLandingWithRecursive();
+
+            if (result == null || result.Count == 0)
                 return new ErrorDataResult<List<AppMenusListDto>>(Messages.Status.NotFound);
-           
+
             var Dtos = _Mapper.Map<List<AppMenusListDto>>(result);
             return new DataResult<List<AppMenusListDto>>(Dtos, status: Core.Utilities.Result.ComplexTypes.ResultStatus.Success);
         }

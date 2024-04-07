@@ -3,12 +3,15 @@ using AkarSoftware.HospitalApp.Core.Repositories.EntityFramework.Abstract;
 using AkarSoftware.HospitalApp.Core.Repositories.EntityFramework.Concrete;
 using AkarSoftware.HospitalApp.Repositories.Abstract.EntityFramework;
 using AkarSoftware.HospitalApp.Repositories.Concrete.EntityFramework.Contexts;
+using AkarSoftware.HospitalApp.Repositories.Concrete.EntityFramework.Repositories;
 
 namespace AkarSoftware.HospitalApp.Repositories.Concrete.EntityFramework.UOW
 {
     public class UnitOfWork : IUnitOfWork
     {
         private readonly MyContexts _context;
+
+
         public UnitOfWork(MyContexts context)
         {
             _context = context;
@@ -19,9 +22,7 @@ namespace AkarSoftware.HospitalApp.Repositories.Concrete.EntityFramework.UOW
         }
 
         #region Costume Services
-        /// <summary>
-        /// İlgili alan için costume bir şekilde oluşturulmuş olan repositoryler bu etapta bu yapıdan çekilecektir. 
-        /// </summary>
+        public IAppMenuRepository AppMenuRepository => new AppMenuRepository(_context);
 
         #endregion
 

@@ -3,20 +3,40 @@
   "WorkspaceRootPath": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{34F20AFC-6825-4DE2-8016-AE78C9F3A06B}|AkarSoftware.HospitalApp.Repositories\\AkarSoftware.HospitalApp.Repositories.csproj|d:\\github\\hastaneotomasyonu\\akarsoftware.hospitalapp\\akarsoftware.hospitalapp.repositories\\concrete\\entityframework\\repositories\\appmenurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34F20AFC-6825-4DE2-8016-AE78C9F3A06B}|AkarSoftware.HospitalApp.Repositories\\AkarSoftware.HospitalApp.Repositories.csproj|solutionrelative:akarsoftware.hospitalapp.repositories\\concrete\\entityframework\\repositories\\appmenurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7861EF09-887D-4521-9A0A-03B64C0D4547}|AkarSoftware.HospitalApp.Managers\\AkarSoftware.HospitalApp.Managers.csproj|d:\\github\\hastaneotomasyonu\\akarsoftware.hospitalapp\\akarsoftware.hospitalapp.managers\\concrete\\managers\\landingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7861EF09-887D-4521-9A0A-03B64C0D4547}|AkarSoftware.HospitalApp.Managers\\AkarSoftware.HospitalApp.Managers.csproj|solutionrelative:akarsoftware.hospitalapp.managers\\concrete\\managers\\landingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C2A86FFF-3A6C-4AB1-9E8B-91DB171BB606}|AkarSoftware.HospitalApp.MVCUI\\AkarSoftware.HospitalApp.MVCUI.csproj|d:\\github\\hastaneotomasyonu\\akarsoftware.hospitalapp\\akarsoftware.hospitalapp.mvcui\\areas\\landing\\viewcomponents\\header\\navbar\\navbarviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2A86FFF-3A6C-4AB1-9E8B-91DB171BB606}|AkarSoftware.HospitalApp.MVCUI\\AkarSoftware.HospitalApp.MVCUI.csproj|solutionrelative:akarsoftware.hospitalapp.mvcui\\areas\\landing\\viewcomponents\\header\\navbar\\navbarviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34F20AFC-6825-4DE2-8016-AE78C9F3A06B}|AkarSoftware.HospitalApp.Repositories\\AkarSoftware.HospitalApp.Repositories.csproj|d:\\github\\hastaneotomasyonu\\akarsoftware.hospitalapp\\akarsoftware.hospitalapp.repositories\\migrations\\20240406203325_initalcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34F20AFC-6825-4DE2-8016-AE78C9F3A06B}|AkarSoftware.HospitalApp.Repositories\\AkarSoftware.HospitalApp.Repositories.csproj|solutionrelative:akarsoftware.hospitalapp.repositories\\migrations\\20240406203325_initalcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{34F20AFC-6825-4DE2-8016-AE78C9F3A06B}|AkarSoftware.HospitalApp.Repositories\\AkarSoftware.HospitalApp.Repositories.csproj|d:\\github\\hastaneotomasyonu\\akarsoftware.hospitalapp\\akarsoftware.hospitalapp.repositories\\abstract\\entityframework\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34F20AFC-6825-4DE2-8016-AE78C9F3A06B}|AkarSoftware.HospitalApp.Repositories\\AkarSoftware.HospitalApp.Repositories.csproj|solutionrelative:akarsoftware.hospitalapp.repositories\\abstract\\entityframework\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34F20AFC-6825-4DE2-8016-AE78C9F3A06B}|AkarSoftware.HospitalApp.Repositories\\AkarSoftware.HospitalApp.Repositories.csproj|d:\\github\\hastaneotomasyonu\\akarsoftware.hospitalapp\\akarsoftware.hospitalapp.repositories\\concrete\\entityframework\\uow\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34F20AFC-6825-4DE2-8016-AE78C9F3A06B}|AkarSoftware.HospitalApp.Repositories\\AkarSoftware.HospitalApp.Repositories.csproj|solutionrelative:akarsoftware.hospitalapp.repositories\\concrete\\entityframework\\uow\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34F20AFC-6825-4DE2-8016-AE78C9F3A06B}|AkarSoftware.HospitalApp.Repositories\\AkarSoftware.HospitalApp.Repositories.csproj|d:\\github\\hastaneotomasyonu\\akarsoftware.hospitalapp\\akarsoftware.hospitalapp.repositories\\abstract\\entityframework\\iappmenurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34F20AFC-6825-4DE2-8016-AE78C9F3A06B}|AkarSoftware.HospitalApp.Repositories\\AkarSoftware.HospitalApp.Repositories.csproj|solutionrelative:akarsoftware.hospitalapp.repositories\\abstract\\entityframework\\iappmenurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Repositories\\Migrations\\20240407080213_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AkarSoftware.HospitalApp.Repositories\\Migrations\\20240407080213_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{34F20AFC-6825-4DE2-8016-AE78C9F3A06B}|AkarSoftware.HospitalApp.Repositories\\AkarSoftware.HospitalApp.Repositories.csproj|d:\\github\\hastaneotomasyonu\\akarsoftware.hospitalapp\\akarsoftware.hospitalapp.repositories\\concrete\\entityframework\\seeds\\identity\\appmenusseeds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34F20AFC-6825-4DE2-8016-AE78C9F3A06B}|AkarSoftware.HospitalApp.Repositories\\AkarSoftware.HospitalApp.Repositories.csproj|solutionrelative:akarsoftware.hospitalapp.repositories\\concrete\\entityframework\\seeds\\identity\\appmenusseeds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7861EF09-887D-4521-9A0A-03B64C0D4547}|AkarSoftware.HospitalApp.Managers\\AkarSoftware.HospitalApp.Managers.csproj|d:\\github\\hastaneotomasyonu\\akarsoftware.hospitalapp\\akarsoftware.hospitalapp.managers\\concrete\\managers\\landingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7861EF09-887D-4521-9A0A-03B64C0D4547}|AkarSoftware.HospitalApp.Managers\\AkarSoftware.HospitalApp.Managers.csproj|solutionrelative:akarsoftware.hospitalapp.managers\\concrete\\managers\\landingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{34F20AFC-6825-4DE2-8016-AE78C9F3A06B}|AkarSoftware.HospitalApp.Repositories\\AkarSoftware.HospitalApp.Repositories.csproj|d:\\github\\hastaneotomasyonu\\akarsoftware.hospitalapp\\akarsoftware.hospitalapp.repositories\\migrations\\20240406203325_initalcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34F20AFC-6825-4DE2-8016-AE78C9F3A06B}|AkarSoftware.HospitalApp.Repositories\\AkarSoftware.HospitalApp.Repositories.csproj|solutionrelative:akarsoftware.hospitalapp.repositories\\migrations\\20240406203325_initalcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C2A86FFF-3A6C-4AB1-9E8B-91DB171BB606}|AkarSoftware.HospitalApp.MVCUI\\AkarSoftware.HospitalApp.MVCUI.csproj|d:\\github\\hastaneotomasyonu\\akarsoftware.hospitalapp\\akarsoftware.hospitalapp.mvcui\\areas\\landing\\views\\shared\\partials\\navbar\\layoutnavbarpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -58,45 +78,59 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "20240406203325_InitalCreate.cs",
-              "DocumentMoniker": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Repositories\\Migrations\\20240406203325_InitalCreate.cs",
-              "RelativeDocumentMoniker": "AkarSoftware.HospitalApp.Repositories\\Migrations\\20240406203325_InitalCreate.cs",
-              "ToolTip": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Repositories\\Migrations\\20240406203325_InitalCreate.cs",
-              "RelativeToolTip": "AkarSoftware.HospitalApp.Repositories\\Migrations\\20240406203325_InitalCreate.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Repositories\\Abstract\\EntityFramework\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "AkarSoftware.HospitalApp.Repositories\\Abstract\\EntityFramework\\IUnitOfWork.cs",
+              "ToolTip": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Repositories\\Abstract\\EntityFramework\\IUnitOfWork.cs",
+              "RelativeToolTip": "AkarSoftware.HospitalApp.Repositories\\Abstract\\EntityFramework\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T20:33:26.367Z",
+              "WhenOpened": "2024-04-07T08:28:07.444Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AppMenuRepository.cs",
+              "DocumentMoniker": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Repositories\\Concrete\\EntityFramework\\Repositories\\AppMenuRepository.cs",
+              "RelativeDocumentMoniker": "AkarSoftware.HospitalApp.Repositories\\Concrete\\EntityFramework\\Repositories\\AppMenuRepository.cs",
+              "ToolTip": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Repositories\\Concrete\\EntityFramework\\Repositories\\AppMenuRepository.cs",
+              "RelativeToolTip": "AkarSoftware.HospitalApp.Repositories\\Concrete\\EntityFramework\\Repositories\\AppMenuRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAjwB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T08:25:07.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAppMenuRepository.cs",
+              "DocumentMoniker": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Repositories\\Abstract\\EntityFramework\\IAppMenuRepository.cs",
+              "RelativeDocumentMoniker": "AkarSoftware.HospitalApp.Repositories\\Abstract\\EntityFramework\\IAppMenuRepository.cs",
+              "ToolTip": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Repositories\\Abstract\\EntityFramework\\IAppMenuRepository.cs",
+              "RelativeToolTip": "AkarSoftware.HospitalApp.Repositories\\Abstract\\EntityFramework\\IAppMenuRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T08:10:42.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "NavbarViewComponent.cs",
               "DocumentMoniker": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.MVCUI\\Areas\\Landing\\ViewComponents\\Header\\Navbar\\NavbarViewComponent.cs",
               "RelativeDocumentMoniker": "AkarSoftware.HospitalApp.MVCUI\\Areas\\Landing\\ViewComponents\\Header\\Navbar\\NavbarViewComponent.cs",
               "ToolTip": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.MVCUI\\Areas\\Landing\\ViewComponents\\Header\\Navbar\\NavbarViewComponent.cs",
               "RelativeToolTip": "AkarSoftware.HospitalApp.MVCUI\\Areas\\Landing\\ViewComponents\\Header\\Navbar\\NavbarViewComponent.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAALAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-06T20:28:30.414Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_AppLayout.cshtml",
-              "DocumentMoniker": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.MVCUI\\Views\\Shared\\Layouts\\_AppLayout.cshtml",
-              "RelativeDocumentMoniker": "AkarSoftware.HospitalApp.MVCUI\\Views\\Shared\\Layouts\\_AppLayout.cshtml",
-              "ToolTip": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.MVCUI\\Views\\Shared\\Layouts\\_AppLayout.cshtml",
-              "RelativeToolTip": "AkarSoftware.HospitalApp.MVCUI\\Views\\Shared\\Layouts\\_AppLayout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-06T16:40:18.197Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "_LandingLayout.cshtml",
               "DocumentMoniker": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.MVCUI\\Views\\Shared\\Layouts\\_LandingLayout.cshtml",
               "RelativeDocumentMoniker": "AkarSoftware.HospitalApp.MVCUI\\Views\\Shared\\Layouts\\_LandingLayout.cshtml",
@@ -108,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.MVCUI\\Areas\\Landing\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "AkarSoftware.HospitalApp.MVCUI\\Areas\\Landing\\Views\\_ViewImports.cshtml",
@@ -116,12 +150,37 @@
               "RelativeToolTip": "AkarSoftware.HospitalApp.MVCUI\\Areas\\Landing\\Views\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-06T16:40:14.031Z",
+              "WhenOpened": "2024-04-06T16:40:14.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LandingManager.cs",
+              "DocumentMoniker": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Managers\\Concrete\\Managers\\LandingManager.cs",
+              "RelativeDocumentMoniker": "AkarSoftware.HospitalApp.Managers\\Concrete\\Managers\\LandingManager.cs",
+              "ToolTip": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Managers\\Concrete\\Managers\\LandingManager.cs",
+              "RelativeToolTip": "AkarSoftware.HospitalApp.Managers\\Concrete\\Managers\\LandingManager.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAswCYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T20:29:48.285Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Repositories\\Concrete\\EntityFramework\\UOW\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "AkarSoftware.HospitalApp.Repositories\\Concrete\\EntityFramework\\UOW\\UnitOfWork.cs",
+              "ToolTip": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Repositories\\Concrete\\EntityFramework\\UOW\\UnitOfWork.cs",
+              "RelativeToolTip": "AkarSoftware.HospitalApp.Repositories\\Concrete\\EntityFramework\\UOW\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T08:28:29.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "LayoutNavbarPartial.cshtml",
               "DocumentMoniker": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.MVCUI\\Areas\\Landing\\Views\\Shared\\Partials\\Navbar\\LayoutNavbarPartial.cshtml",
               "RelativeDocumentMoniker": "AkarSoftware.HospitalApp.MVCUI\\Areas\\Landing\\Views\\Shared\\Partials\\Navbar\\LayoutNavbarPartial.cshtml",
@@ -134,7 +193,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
+              "Title": "20240407080213_mig1.cs",
+              "DocumentMoniker": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Repositories\\Migrations\\20240407080213_mig1.cs",
+              "RelativeDocumentMoniker": "AkarSoftware.HospitalApp.Repositories\\Migrations\\20240407080213_mig1.cs",
+              "ToolTip": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Repositories\\Migrations\\20240407080213_mig1.cs",
+              "RelativeToolTip": "AkarSoftware.HospitalApp.Repositories\\Migrations\\20240407080213_mig1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T08:02:13.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.MVCUI\\Areas\\Landing\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "AkarSoftware.HospitalApp.MVCUI\\Areas\\Landing\\Views\\Home\\Index.cshtml",
@@ -142,12 +214,48 @@
               "RelativeToolTip": "AkarSoftware.HospitalApp.MVCUI\\Areas\\Landing\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-06T16:24:11.185Z",
+              "WhenOpened": "2024-04-06T16:24:11.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_AppLayout.cshtml",
+              "DocumentMoniker": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.MVCUI\\Views\\Shared\\Layouts\\_AppLayout.cshtml",
+              "RelativeDocumentMoniker": "AkarSoftware.HospitalApp.MVCUI\\Views\\Shared\\Layouts\\_AppLayout.cshtml",
+              "ToolTip": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.MVCUI\\Views\\Shared\\Layouts\\_AppLayout.cshtml",
+              "RelativeToolTip": "AkarSoftware.HospitalApp.MVCUI\\Views\\Shared\\Layouts\\_AppLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T16:40:18.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppMenusSeeds.cs",
+              "DocumentMoniker": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Repositories\\Concrete\\EntityFramework\\Seeds\\Identity\\AppMenusSeeds.cs",
+              "RelativeDocumentMoniker": "AkarSoftware.HospitalApp.Repositories\\Concrete\\EntityFramework\\Seeds\\Identity\\AppMenusSeeds.cs",
+              "ToolTip": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Repositories\\Concrete\\EntityFramework\\Seeds\\Identity\\AppMenusSeeds.cs",
+              "RelativeToolTip": "AkarSoftware.HospitalApp.Repositories\\Concrete\\EntityFramework\\Seeds\\Identity\\AppMenusSeeds.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAiwEkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T19:45:08.571Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
+              "Title": "20240406203325_InitalCreate.cs",
+              "DocumentMoniker": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Repositories\\Migrations\\20240406203325_InitalCreate.cs",
+              "RelativeDocumentMoniker": "AkarSoftware.HospitalApp.Repositories\\Migrations\\20240406203325_InitalCreate.cs",
+              "ToolTip": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Repositories\\Migrations\\20240406203325_InitalCreate.cs",
+              "RelativeToolTip": "AkarSoftware.HospitalApp.Repositories\\Migrations\\20240406203325_InitalCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T20:33:26.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Default.cshtml",
               "DocumentMoniker": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.MVCUI\\Areas\\Landing\\Views\\Shared\\Components\\Navbar\\Default.cshtml",
               "RelativeDocumentMoniker": "AkarSoftware.HospitalApp.MVCUI\\Areas\\Landing\\Views\\Shared\\Components\\Navbar\\Default.cshtml",
@@ -155,38 +263,11 @@
               "RelativeToolTip": "AkarSoftware.HospitalApp.MVCUI\\Areas\\Landing\\Views\\Shared\\Components\\Navbar\\Default.cshtml",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-06T16:19:04.454Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-06T16:19:04.454Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppMenusSeeds.cs",
-              "DocumentMoniker": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Repositories\\Concrete\\EntityFramework\\Seeds\\Identity\\AppMenusSeeds.cs",
-              "RelativeDocumentMoniker": "AkarSoftware.HospitalApp.Repositories\\Concrete\\EntityFramework\\Seeds\\Identity\\AppMenusSeeds.cs",
-              "ToolTip": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Repositories\\Concrete\\EntityFramework\\Seeds\\Identity\\AppMenusSeeds.cs",
-              "RelativeToolTip": "AkarSoftware.HospitalApp.Repositories\\Concrete\\EntityFramework\\Seeds\\Identity\\AppMenusSeeds.cs",
-              "ViewState": "AQIAAFwAAAAAAAAAAAAAAN8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T19:45:08.571Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LandingManager.cs",
-              "DocumentMoniker": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Managers\\Concrete\\Managers\\LandingManager.cs",
-              "RelativeDocumentMoniker": "AkarSoftware.HospitalApp.Managers\\Concrete\\Managers\\LandingManager.cs",
-              "ToolTip": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.Managers\\Concrete\\Managers\\LandingManager.cs",
-              "RelativeToolTip": "AkarSoftware.HospitalApp.Managers\\Concrete\\Managers\\LandingManager.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T20:29:48.285Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "_Landing.css",
               "DocumentMoniker": "D:\\Github\\HastaneOtomasyonu\\AkarSoftware.HospitalApp\\AkarSoftware.HospitalApp.MVCUI\\wwwroot\\Landing\\css\\_Landing.css",
               "RelativeDocumentMoniker": "AkarSoftware.HospitalApp.MVCUI\\wwwroot\\Landing\\css\\_Landing.css",
@@ -194,8 +275,7 @@
               "RelativeToolTip": "AkarSoftware.HospitalApp.MVCUI\\wwwroot\\Landing\\css\\_Landing.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-04-06T16:19:19.438Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-06T16:19:19.438Z"
             }
           ]
         }

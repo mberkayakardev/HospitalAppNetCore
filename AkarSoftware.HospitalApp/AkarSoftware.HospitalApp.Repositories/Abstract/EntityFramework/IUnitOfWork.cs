@@ -9,7 +9,7 @@ namespace AkarSoftware.HospitalApp.Repositories.Abstract.EntityFramework
     public interface IUnitOfWork
     {
         #region CostumeRepositories
-        // İlgili alanda Costume Serivcelerin Abstract Versionları çağrılması gerekecketir. 
+        IAppMenuRepository AppMenuRepository { get; }
         #endregion
 
         /// <summary>
